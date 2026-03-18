@@ -15,6 +15,7 @@ import sys
 import os
 from pathlib import Path
 import argparse
+from typing import Optional
 from dotenv import load_dotenv
 
 # Import our modules
@@ -167,7 +168,7 @@ def transcribe_audio_chunks(chunk_files: list, output_path: Path) -> bool:
         return False
 
 
-def parse_session_date(session_name: str) -> str | None:
+def parse_session_date(session_name: str) -> Optional[str]:
     """Parse session date from filename.
 
     Supports:
@@ -228,7 +229,9 @@ def main():
     print(f"📁 Session: {session_name}")
     print(f"\n{state.get_summary()}")
     
-    output_dir = Path("output")
+    # Use path relative to this script so it works regardless of cwd
+    _script_dir = Path(__file__).resolve().parent
+    output_dir = _script_dir / "output"
     output_dir.mkdir(exist_ok=True)
     
     # Determine session date
@@ -252,8 +255,8 @@ def main():
         print_header("STEP 1: EXTRACT AUDIO")
         chunk_files = extract_audio_chunks(video_path, output_dir, session_name)
         if chunk_files:
-            # Store chunk files in metadata
-            state.state.setdefault("metadata", {})["chunk_files"] = [str(f) for f in chunk_files]
+            # Store chunk files as absolute paths so resume works from any cwd
+            state.state.setdefault("metadata", {})["chunk_files"] = [str(Path(f).resolve()) for f in chunk_files]
             state.mark_completed("audio_extracted", 
                                video_path=str(video_path))
         else:
@@ -261,9 +264,17 @@ def main():
             sys.exit(1)
     else:
         print("\n✅ Audio already extracted, skipping...")
-        # Retrieve chunk files from state
+        # Retrieve chunk files from state (resolve to absolute for any cwd)
         saved_chunks = state.state.get("metadata", {}).get("chunk_files", [])
-        chunk_files = [Path(f) for f in saved_chunks if Path(f).exists()]
+        chunk_files = [Path(f).resolve() for f in saved_chunks if Path(f).resolve().exists()]
+        if not chunk_files and not state.is_completed("transcript_created"):
+            # Chunk files missing (e.g. deleted or wrong path) — re-extract
+            print("⚠️ Chunk files not found, re-extracting audio...")
+            state.state["steps_completed"]["audio_extracted"] = False
+            chunk_files = extract_audio_chunks(video_path, output_dir, session_name)
+            if chunk_files:
+                state.state.setdefault("metadata", {})["chunk_files"] = [str(Path(f).resolve()) for f in chunk_files]
+                state.mark_completed("audio_extracted", video_path=str(video_path))
     
     # STEP 2: Transcribe
     if not state.is_completed("transcript_created"):

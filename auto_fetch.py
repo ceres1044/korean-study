@@ -16,13 +16,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Config
+# Config (repo root = directory containing this script)
+_REPO_ROOT = Path(__file__).resolve().parent
 SOURCE_DIR = Path(
-    "/Users/jingchen/Library/CloudStorage/GoogleDrive-thisisjingchen@gmail.com/My Drive/Meet Recordings/Korean Lessons"
+    os.path.expanduser(
+        "~/Library/CloudStorage/GoogleDrive-thisisjingchen@gmail.com/My Drive/Meet Recordings/Korean Lessons"
+    )
 )
-DEST_DIR = Path("/Users/jingchen/code/koreanlearning/recordings")
-STATE_FILE = Path("/Users/jingchen/code/koreanlearning/output/auto_fetch_state.json")
-LOG_FILE = Path("/Users/jingchen/code/koreanlearning/output/auto_fetch.log")
+DEST_DIR = _REPO_ROOT / "recordings"
+STATE_FILE = _REPO_ROOT / "output" / "auto_fetch_state.json"
+LOG_FILE = _REPO_ROOT / "output" / "auto_fetch.log"
 
 VIDEO_EXTS = {".mp4", ".m4v", ".mov"}
 
@@ -58,12 +61,9 @@ def list_videos(source_dir: Path) -> list[Path]:
 
 
 def run_processor(local_path: Path) -> bool:
-    cmd = [
-        sys.executable,
-        "/Users/jingchen/code/koreanlearning/main_processor.py",
-        str(local_path),
-    ]
-    result = subprocess.run(cmd, cwd="/Users/jingchen/code/koreanlearning")
+    processor = _REPO_ROOT / "main_processor.py"
+    cmd = [sys.executable, str(processor), str(local_path)]
+    result = subprocess.run(cmd, cwd=str(_REPO_ROOT))
     return result.returncode == 0
 
 
