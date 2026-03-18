@@ -1,0 +1,4 @@
+.venv
+archive/
+recordings/
+.env

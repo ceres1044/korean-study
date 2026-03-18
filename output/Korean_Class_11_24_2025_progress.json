@@ -1,0 +1,30 @@
+{
+  "session_name": "Korean_Class_11_24_2025",
+  "created_at": "2026-02-05T16:48:27.035051",
+  "updated_at": "2026-02-05T16:56:27.268683",
+  "steps_completed": {
+    "video_fetched": false,
+    "audio_extracted": true,
+    "transcript_created": true,
+    "analysis_done": true,
+    "sent_to_notion": true
+  },
+  "files": {
+    "video_path": "/Users/jingchen/code/koreanlearning/recordings/Korean_Class_11_24_2025.mp4",
+    "audio_path": null,
+    "transcript_path": "output/Korean_Class_11_24_2025.json",
+    "analysis_path": "output/Korean_Class_11_24_2025_analysis.json"
+  },
+  "metadata": {
+    "session_date": "2025-11-24",
+    "duration_seconds": null,
+    "total_items_extracted": 70,
+    "chunk_files": [
+      "output/Korean_Class_11_24_2025_chunk_1.mp3",
+      "output/Korean_Class_11_24_2025_chunk_2.mp3",
+      "output/Korean_Class_11_24_2025_chunk_3.mp3",
+      "output/Korean_Class_11_24_2025_chunk_4.mp3",
+      "output/Korean_Class_11_24_2025_chunk_5.mp3"
+    ]
+  }
+}

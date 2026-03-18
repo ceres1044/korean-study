@@ -1,0 +1,1323 @@
+{
+  "session_date": "2025-11-10",
+  "total_items_extracted": 69,
+  "learning_materials": [
+    {
+      "korean": "정말 인연이구나",
+      "english": "It's really fate/destiny",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Expression used when realizing a connection between people",
+      "examples": [
+        {
+          "korean": "같은 고향 출신이라니, 정말 인연이구나.",
+          "english": "We're from the same hometown, it's really fate."
+        },
+        {
+          "korean": "우연히 만났는데 정말 인연이구나.",
+          "english": "We met by chance, it's really destiny."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used to express amazement at coincidental connections"
+    },
+    {
+      "korean": "신랑이 장남이구나",
+      "english": "The groom is the eldest son",
+      "type": "phrase",
+      "category": "family_expression",
+      "context_from_class": "Expression about family position in marriage context",
+      "examples": [
+        {
+          "korean": "결혼하면 시부모님과 살아야 해요. 신랑이 장남이거든요.",
+          "english": "After marriage, we have to live with his parents. The groom is the eldest son."
+        },
+        {
+          "korean": "신랑이 장남이라서 집안 행사가 많아요.",
+          "english": "Since the groom is the eldest son, there are many family events."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Important in Korean family culture context"
+    },
+    {
+      "korean": "어른이 다 됐구나",
+      "english": "You've become a full adult",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Expression of surprise at someone's maturity",
+      "examples": [
+        {
+          "korean": "벌써 대학생이야? 어른이 다 됐구나.",
+          "english": "You're already a university student? You've become a full adult."
+        },
+        {
+          "korean": "혼자서 다 처리했네. 어른이 다 됐구나.",
+          "english": "You handled everything by yourself. You've become a full adult."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows surprise at someone's growth or maturity"
+    },
+    {
+      "korean": "구나/군요",
+      "english": "Realization/understanding ending",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Grammar pattern showing realization or understanding",
+      "examples": [
+        {
+          "korean": "아, 그래서 늦었군요.",
+          "english": "Ah, so that's why you were late."
+        },
+        {
+          "korean": "벌써 5시구나. 시간이 빨라.",
+          "english": "It's already 5 o'clock. Time flies."
+        }
+      ],
+      "confidence": "high",
+      "notes": "구나 is casual, 군요 is polite. Shows sudden realization"
+    },
+    {
+      "korean": "하자마자",
+      "english": "As soon as, immediately after",
+      "type": "grammar",
+      "category": "time_expression",
+      "context_from_class": "Grammar pattern meaning 'immediately after doing something'",
+      "examples": [
+        {
+          "korean": "집에 도착하자마자 잠들었어요.",
+          "english": "I fell asleep as soon as I arrived home."
+        },
+        {
+          "korean": "시험이 끝나자마자 여행을 떠났어요.",
+          "english": "I left for a trip as soon as the exam ended."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Emphasizes immediate sequence of actions"
+    },
+    {
+      "korean": "졸업하자마자",
+      "english": "Immediately after graduation",
+      "type": "phrase",
+      "category": "time_expression",
+      "context_from_class": "Example of 하자마자 pattern with graduation",
+      "examples": [
+        {
+          "korean": "졸업하자마자 취업했어요.",
+          "english": "I got a job immediately after graduation."
+        },
+        {
+          "korean": "졸업하자마자 결혼할 계획이에요.",
+          "english": "I plan to get married immediately after graduation."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common life milestone expression"
+    },
+    {
+      "korean": "무슨 선물을 해야 할지 몰라서",
+      "english": "Because I don't know what gift to give",
+      "type": "grammar",
+      "category": "indirect_question",
+      "context_from_class": "Pattern for expressing uncertainty about what to do",
+      "examples": [
+        {
+          "korean": "어떤 옷을 입어야 할지 몰라서 고민이에요.",
+          "english": "I'm worried because I don't know what clothes to wear."
+        },
+        {
+          "korean": "어디로 가야 할지 몰라서 길을 물어봤어요.",
+          "english": "I asked for directions because I didn't know where to go."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with question words + 해야 할지 모르다"
+    },
+    {
+      "korean": "면서",
+      "english": "While doing, but also (contrast)",
+      "type": "grammar",
+      "category": "connector",
+      "context_from_class": "Grammar pattern with two meanings: simultaneous action or contrast",
+      "examples": [
+        {
+          "korean": "음악을 들으면서 공부해요.",
+          "english": "I study while listening to music."
+        },
+        {
+          "korean": "돈이 많으면서 인색해요.",
+          "english": "He has a lot of money but is stingy."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can show simultaneous actions or contradictory situations"
+    },
+    {
+      "korean": "조건도 좋으면서",
+      "english": "Even though his conditions are good",
+      "type": "phrase",
+      "category": "contrast_expression",
+      "context_from_class": "Example of 면서 showing contrast in marriage context",
+      "examples": [
+        {
+          "korean": "성격도 좋으면서 왜 인기가 없을까?",
+          "english": "Even though his personality is good, why isn't he popular?"
+        },
+        {
+          "korean": "실력도 좋으면서 자신감이 없어요.",
+          "english": "Even though his skills are good, he lacks confidence."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows contradiction between expected and actual situation"
+    },
+    {
+      "korean": "쟁이",
+      "english": "Person who has a lot of (trait/behavior)",
+      "type": "grammar",
+      "category": "suffix",
+      "context_from_class": "Suffix attached to words to describe people with certain characteristics",
+      "examples": [
+        {
+          "korean": "우리 아이는 정말 말썽쟁이예요.",
+          "english": "Our child is really a troublemaker."
+        },
+        {
+          "korean": "그 사람은 유명한 허풍쟁이야.",
+          "english": "That person is a famous braggart."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often has slightly negative connotation"
+    },
+    {
+      "korean": "수다쟁이",
+      "english": "Chatterbox, talkative person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix meaning someone who talks a lot",
+      "examples": [
+        {
+          "korean": "언니는 수다쟁이라서 전화하면 한 시간은 기본이에요.",
+          "english": "My sister is a chatterbox, so phone calls are at least an hour."
+        },
+        {
+          "korean": "수다쟁이 친구 덕분에 심심하지 않아요.",
+          "english": "Thanks to my talkative friend, I'm never bored."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common personality description"
+    },
+    {
+      "korean": "거짓말쟁이",
+      "english": "Liar",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who lies frequently",
+      "examples": [
+        {
+          "korean": "그 사람 말은 믿지 마. 거짓말쟁이야.",
+          "english": "Don't believe what he says. He's a liar."
+        },
+        {
+          "korean": "거짓말쟁이로 소문나면 친구들이 떠나요.",
+          "english": "If you get a reputation as a liar, friends will leave you."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Negative personality trait"
+    },
+    {
+      "korean": "허풍쟁이",
+      "english": "Braggart, person who exaggerates",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who brags or exaggerates",
+      "examples": [
+        {
+          "korean": "그는 허풍쟁이라서 말을 반만 믿어야 해.",
+          "english": "He's a braggart, so you should only believe half of what he says."
+        },
+        {
+          "korean": "허풍쟁이 삼촌이 또 자랑하기 시작했어.",
+          "english": "My braggart uncle started boasting again."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Someone who exaggerates their achievements"
+    },
+    {
+      "korean": "겁쟁이",
+      "english": "Coward, scaredy-cat",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who is easily scared",
+      "examples": [
+        {
+          "korean": "겁쟁이라서 무서운 영화를 못 봐요.",
+          "english": "I'm a coward so I can't watch scary movies."
+        },
+        {
+          "korean": "겁쟁이 동생은 혼자 화장실도 못 가요.",
+          "english": "My coward younger sibling can't even go to the bathroom alone."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used teasingly"
+    },
+    {
+      "korean": "고집쟁이",
+      "english": "Stubborn person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who is very stubborn",
+      "examples": [
+        {
+          "korean": "할아버지는 고집쟁이라서 말을 안 들어요.",
+          "english": "Grandfather is stubborn so he doesn't listen."
+        },
+        {
+          "korean": "고집쟁이 친구를 설득하기가 어려워요.",
+          "english": "It's hard to persuade my stubborn friend."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Someone who won't change their mind easily"
+    },
+    {
+      "korean": "욕심쟁이",
+      "english": "Greedy person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who is greedy",
+      "examples": [
+        {
+          "korean": "욕심쟁이라서 모든 걸 다 가지려고 해요.",
+          "english": "He's greedy so he tries to have everything."
+        },
+        {
+          "korean": "욕심쟁이 형은 음식을 혼자 다 먹어요.",
+          "english": "My greedy brother eats all the food by himself."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Someone who wants too much"
+    },
+    {
+      "korean": "게으름쟁이",
+      "english": "Lazy person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who is lazy",
+      "examples": [
+        {
+          "korean": "게으름쟁이라서 숙제를 안 해요.",
+          "english": "I'm lazy so I don't do homework."
+        },
+        {
+          "korean": "게으름쟁이 룸메이트 때문에 청소를 혼자 해요.",
+          "english": "Because of my lazy roommate, I clean alone."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common personality criticism"
+    },
+    {
+      "korean": "말썽쟁이",
+      "english": "Troublemaker",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who causes trouble",
+      "examples": [
+        {
+          "korean": "우리 반 말썽쟁이가 또 사고를 쳤어요.",
+          "english": "The troublemaker in our class caused trouble again."
+        },
+        {
+          "korean": "말썽쟁이 조카가 집에 오면 정신없어요.",
+          "english": "When my troublemaker nephew comes home, it's chaotic."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used for children who misbehave"
+    },
+    {
+      "korean": "멋쟁이",
+      "english": "Stylish person, fashionable person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who is stylish",
+      "examples": [
+        {
+          "korean": "언니는 멋쟁이라서 옷을 잘 입어요.",
+          "english": "My sister is stylish so she dresses well."
+        },
+        {
+          "korean": "멋쟁이 친구에게 패션 조언을 구했어요.",
+          "english": "I asked my stylish friend for fashion advice."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Positive use of 쟁이 suffix"
+    },
+    {
+      "korean": "월급쟁이",
+      "english": "Salaried worker, office worker",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Example of 쟁이 suffix for someone who works for salary",
+      "examples": [
+        {
+          "korean": "월급쟁이라서 돈이 많지 않아요.",
+          "english": "I'm a salaried worker so I don't have much money."
+        },
+        {
+          "korean": "월급쟁이 생활이 힘들어요.",
+          "english": "Life as a salaried worker is tough."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Same as 샐러리맨 (salaryman)"
+    },
+    {
+      "korean": "마침 잘 됐네요",
+      "english": "That worked out perfectly/What perfect timing",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Expression used when something happens at just the right time",
+      "examples": [
+        {
+          "korean": "비가 그쳤네요. 마침 잘 됐네요.",
+          "english": "The rain stopped. That worked out perfectly."
+        },
+        {
+          "korean": "할인 행사를 하네요. 마침 잘 됐네요.",
+          "english": "They're having a sale. What perfect timing."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows satisfaction with good timing"
+    },
+    {
+      "korean": "그렇게 하죠",
+      "english": "Let's do that/That sounds good",
+      "type": "phrase",
+      "category": "agreement_expression",
+      "context_from_class": "Expression showing agreement with a suggestion",
+      "examples": [
+        {
+          "korean": "내일 만날까요? 네, 그렇게 하죠.",
+          "english": "Shall we meet tomorrow? Yes, let's do that."
+        },
+        {
+          "korean": "이 식당에서 먹을까요? 그렇게 하죠.",
+          "english": "Shall we eat at this restaurant? That sounds good."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Polite way to agree with plans"
+    },
+    {
+      "korean": "갈까 하는데",
+      "english": "I'm thinking of going",
+      "type": "grammar",
+      "category": "intention_expression",
+      "context_from_class": "Pattern expressing tentative intention (about 50% certainty)",
+      "examples": [
+        {
+          "korean": "영화 보러 갈까 하는데 같이 갈래요?",
+          "english": "I'm thinking of going to see a movie, want to come?"
+        },
+        {
+          "korean": "오늘 일찍 잘까 하는데 어때요?",
+          "english": "I'm thinking of sleeping early today, what do you think?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows about 50% certainty in plans"
+    },
+    {
+      "korean": "갈 생각인데",
+      "english": "I'm planning to go",
+      "type": "grammar",
+      "category": "intention_expression",
+      "context_from_class": "Pattern expressing stronger intention (about 80% certainty)",
+      "examples": [
+        {
+          "korean": "내년에 유학갈 생각인데 어떻게 생각해요?",
+          "english": "I'm planning to study abroad next year, what do you think?"
+        },
+        {
+          "korean": "이사갈 생각인데 좋은 동네 추천해 주세요.",
+          "english": "I'm planning to move, please recommend a good neighborhood."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows about 80% certainty in plans"
+    },
+    {
+      "korean": "가려는데",
+      "english": "I'm about to go/intending to go",
+      "type": "grammar",
+      "category": "intention_expression",
+      "context_from_class": "Pattern expressing strong intention (about 98% certainty)",
+      "examples": [
+        {
+          "korean": "지금 집에 가려는데 뭔가 필요한 거 있어요?",
+          "english": "I'm about to go home, do you need anything?"
+        },
+        {
+          "korean": "점심 먹으러 가려는데 같이 갈래요?",
+          "english": "I'm about to go eat lunch, want to come together?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows about 98% certainty, almost decided"
+    },
+    {
+      "korean": "고민하다",
+      "english": "To worry about, to be troubled by",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Verb meaning to think deeply about problems with some stress",
+      "examples": [
+        {
+          "korean": "진로 문제로 고민하고 있어요.",
+          "english": "I'm worrying about career issues."
+        },
+        {
+          "korean": "뭘 그렇게 고민해요?",
+          "english": "What are you worrying about so much?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "More stressful than just 생각하다 (thinking)"
+    },
+    {
+      "korean": "고민 중이다",
+      "english": "To be in the middle of worrying/considering",
+      "type": "phrase",
+      "category": "state_expression",
+      "context_from_class": "Expression showing ongoing state of consideration",
+      "examples": [
+        {
+          "korean": "어떤 대학에 갈지 고민 중이에요.",
+          "english": "I'm in the middle of considering which university to go to."
+        },
+        {
+          "korean": "이직할지 고민 중입니다.",
+          "english": "I'm considering whether to change jobs."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows ongoing process of decision-making"
+    },
+    {
+      "korean": "가장 인상 깊은",
+      "english": "Most impressive/memorable",
+      "type": "phrase",
+      "category": "descriptive_expression",
+      "context_from_class": "Expression for describing something that left the strongest impression",
+      "examples": [
+        {
+          "korean": "가장 인상 깊은 여행지는 어디예요?",
+          "english": "What's the most impressive travel destination?"
+        },
+        {
+          "korean": "가장 인상 깊은 영화를 추천해 주세요.",
+          "english": "Please recommend the most impressive movie."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can also say 가장 기억에 남는 (most memorable)"
+    },
+    {
+      "korean": "닮다",
+      "english": "To resemble, to look like",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Verb for physical or personality resemblance",
+      "examples": [
+        {
+          "korean": "아들이 아버지를 많이 닮았어요.",
+          "english": "The son really resembles his father."
+        },
+        {
+          "korean": "성격이 엄마를 닮았네요.",
+          "english": "Your personality resembles your mother's."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can use 을/를 or 와/과/하고/랑 particles"
+    },
+    {
+      "korean": "제가 보기에는",
+      "english": "In my view/From what I can see",
+      "type": "phrase",
+      "category": "opinion_expression",
+      "context_from_class": "Expression for giving opinion based on observation",
+      "examples": [
+        {
+          "korean": "제가 보기에는 그 사람이 거짓말하는 것 같아요.",
+          "english": "In my view, that person seems to be lying."
+        },
+        {
+          "korean": "제가 보기에는 이 방법이 더 좋을 것 같아요.",
+          "english": "From what I can see, this method seems better."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Similar to 제 생각에는 but based more on observation"
+    },
+    {
+      "korean": "급하다",
+      "english": "To be urgent, to be in a hurry",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Adjective describing urgency or hurried personality",
+      "examples": [
+        {
+          "korean": "급한 일이 생겨서 먼저 가야 해요.",
+          "english": "Something urgent came up so I have to leave first."
+        },
+        {
+          "korean": "성격이 급해서 기다리는 걸 못해요.",
+          "english": "I have an impatient personality so I can't wait."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can describe situations or personality traits"
+    },
+    {
+      "korean": "성실하다",
+      "english": "To be sincere, diligent, faithful",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Positive personality trait describing reliability",
+      "examples": [
+        {
+          "korean": "그 사람은 성실해서 믿을 수 있어요.",
+          "english": "That person is sincere so you can trust them."
+        },
+        {
+          "korean": "성실한 학생들이 좋은 성적을 받아요.",
+          "english": "Diligent students get good grades."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Highly valued personality trait in Korean culture"
+    },
+    {
+      "korean": "따뜻한 마음을 가진",
+      "english": "Having a warm heart",
+      "type": "phrase",
+      "category": "personality_description",
+      "context_from_class": "Expression describing someone with kindness and empathy",
+      "examples": [
+        {
+          "korean": "따뜻한 마음을 가진 사람과 결혼하고 싶어요.",
+          "english": "I want to marry someone with a warm heart."
+        },
+        {
+          "korean": "선생님은 따뜻한 마음을 가진 분이에요.",
+          "english": "The teacher is someone with a warm heart."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common way to describe kind, caring people"
+    },
+    {
+      "korean": "꼼꼼하다",
+      "english": "To be meticulous, thorough, careful about details",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait describing attention to detail",
+      "examples": [
+        {
+          "korean": "꼼꼼한 성격이라서 실수를 잘 안 해요.",
+          "english": "I have a meticulous personality so I rarely make mistakes."
+        },
+        {
+          "korean": "꼼꼼하게 확인해 주세요.",
+          "english": "Please check it thoroughly."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Generally positive trait in Korean culture"
+    },
+    {
+      "korean": "덜렁대다",
+      "english": "To be absent-minded, careless, forgetful",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Personality trait opposite of 꼼꼼하다",
+      "examples": [
+        {
+          "korean": "덜렁대는 성격이라서 자주 물건을 잃어버려요.",
+          "english": "I have an absent-minded personality so I often lose things."
+        },
+        {
+          "korean": "덜렁대지 말고 차근차근 해봐.",
+          "english": "Don't be careless, do it step by step."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used to describe someone who forgets things easily"
+    },
+    {
+      "korean": "상냥하다",
+      "english": "To be gentle, kind, sweet",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait describing gentle kindness",
+      "examples": [
+        {
+          "korean": "상냥한 목소리로 말해 주세요.",
+          "english": "Please speak in a gentle voice."
+        },
+        {
+          "korean": "그 간호사는 정말 상냥해요.",
+          "english": "That nurse is really kind."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used to describe manner of speaking or behavior"
+    },
+    {
+      "korean": "무뚝뚝하다",
+      "english": "To be blunt, curt, expressionless",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait opposite of 상냥하다",
+      "examples": [
+        {
+          "korean": "무뚝뚝해 보이지만 마음은 따뜻해요.",
+          "english": "He looks blunt but has a warm heart."
+        },
+        {
+          "korean": "무뚝뚝한 표정으로 대답했어요.",
+          "english": "He answered with an expressionless face."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Like wood - stiff and unexpressive"
+    },
+    {
+      "korean": "적극적이다",
+      "english": "To be active, positive, proactive",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait with 이다 ending",
+      "examples": [
+        {
+          "korean": "적극적으로 참여해 주세요.",
+          "english": "Please participate actively."
+        },
+        {
+          "korean": "적극적인 성격이라서 친구가 많아요.",
+          "english": "I have an active personality so I have many friends."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending, not 하다"
+    },
+    {
+      "korean": "소극적이다",
+      "english": "To be passive, inactive, reserved",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait opposite of 적극적이다",
+      "examples": [
+        {
+          "korean": "소극적인 성격을 바꾸고 싶어요.",
+          "english": "I want to change my passive personality."
+        },
+        {
+          "korean": "너무 소극적이지 말고 의견을 말해봐.",
+          "english": "Don't be so passive, express your opinion."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending, not 하다"
+    },
+    {
+      "korean": "외향적이다",
+      "english": "To be extroverted, outgoing",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait describing social orientation",
+      "examples": [
+        {
+          "korean": "외향적인 사람들이 영업직에 잘 맞아요.",
+          "english": "Extroverted people are well-suited for sales jobs."
+        },
+        {
+          "korean": "외향적인 성격 덕분에 적응이 빨라요.",
+          "english": "Thanks to my extroverted personality, I adapt quickly."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending"
+    },
+    {
+      "korean": "내향적이다",
+      "english": "To be introverted",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait opposite of 외향적이다",
+      "examples": [
+        {
+          "korean": "내향적인 성격이라서 혼자 있는 시간이 필요해요.",
+          "english": "I have an introverted personality so I need alone time."
+        },
+        {
+          "korean": "내향적이지만 친구들과는 편해요.",
+          "english": "I'm introverted but comfortable with friends."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending"
+    },
+    {
+      "korean": "사교적이다",
+      "english": "To be sociable, social",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait describing social skills",
+      "examples": [
+        {
+          "korean": "사교적인 성격이라서 파티를 좋아해요.",
+          "english": "I have a sociable personality so I like parties."
+        },
+        {
+          "korean": "사교적인 사람들이 네트워킹을 잘해요.",
+          "english": "Sociable people are good at networking."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending"
+    },
+    {
+      "korean": "이기적이다",
+      "english": "To be selfish, self-centered",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Negative personality trait",
+      "examples": [
+        {
+          "korean": "이기적인 행동은 친구들을 상처주어요.",
+          "english": "Selfish behavior hurts friends."
+        },
+        {
+          "korean": "너무 이기적이지 말고 다른 사람도 생각해.",
+          "english": "Don't be so selfish, think about others too."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending, negative trait"
+    },
+    {
+      "korean": "보수적이다",
+      "english": "To be conservative, traditional",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality/attitude trait, especially mentioned about Korean fathers",
+      "examples": [
+        {
+          "korean": "보수적인 가정에서 자랐어요.",
+          "english": "I grew up in a conservative family."
+        },
+        {
+          "korean": "보수적인 생각을 가진 사람들이 많아요.",
+          "english": "There are many people with conservative thoughts."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 이다 ending"
+    },
+    {
+      "korean": "신중하다",
+      "english": "To be careful, cautious, prudent",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait describing careful decision-making",
+      "examples": [
+        {
+          "korean": "신중하게 결정하는 게 좋겠어요.",
+          "english": "It would be good to decide carefully."
+        },
+        {
+          "korean": "신중한 성격이라서 실수를 잘 안 해요.",
+          "english": "I have a cautious personality so I rarely make mistakes."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 하다 ending, positive trait"
+    },
+    {
+      "korean": "정직하다",
+      "english": "To be honest, truthful",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Personality trait about honesty",
+      "examples": [
+        {
+          "korean": "정직한 사람을 믿을 수 있어요.",
+          "english": "You can trust an honest person."
+        },
+        {
+          "korean": "정직하게 말해 주세요.",
+          "english": "Please tell me honestly."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 하다 ending, highly valued trait"
+    },
+    {
+      "korean": "책임감이 강하다",
+      "english": "To have a strong sense of responsibility",
+      "type": "phrase",
+      "category": "personality_description",
+      "context_from_class": "Expression describing someone who takes responsibility seriously",
+      "examples": [
+        {
+          "korean": "책임감이 강한 사람이 리더가 되어야 해요.",
+          "english": "A person with a strong sense of responsibility should become the leader."
+        },
+        {
+          "korean": "책임감이 강해서 맡은 일을 끝까지 해요.",
+          "english": "I have a strong sense of responsibility so I finish what I'm assigned."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Important trait in Korean work culture"
+    },
+    {
+      "korean": "제 생각에는",
+      "english": "In my opinion/I think",
+      "type": "phrase",
+      "category": "opinion_expression",
+      "context_from_class": "Polite way to express personal opinion",
+      "examples": [
+        {
+          "korean": "제 생각에는 이 방법이 더 좋을 것 같아요.",
+          "english": "In my opinion, this method seems better."
+        },
+        {
+          "korean": "제 생각에는 너무 비싸요.",
+          "english": "I think it's too expensive."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Polite way to introduce personal opinions"
+    },
+    {
+      "korean": "결혼에 대해서 어떻게 생각하세요",
+      "english": "What do you think about marriage?",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Pattern for asking opinions about topics",
+      "examples": [
+        {
+          "korean": "한국 음식에 대해서 어떻게 생각하세요?",
+          "english": "What do you think about Korean food?"
+        },
+        {
+          "korean": "이 문제에 대해서 어떻게 생각하세요?",
+          "english": "What do you think about this problem?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses 에 대해서 (about) + 어떻게 생각하세요"
+    },
+    {
+      "korean": "결혼을 어떻게 생각하세요",
+      "english": "What do you think of marriage?",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Alternative pattern for asking opinions, using object particle",
+      "examples": [
+        {
+          "korean": "이 영화를 어떻게 생각하세요?",
+          "english": "What do you think of this movie?"
+        },
+        {
+          "korean": "새로운 정책을 어떻게 생각하세요?",
+          "english": "What do you think of the new policy?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses object particle 을/를 instead of 에 대해서"
+    },
+    {
+      "korean": "잖아요",
+      "english": "You know (shared knowledge ending)",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Ending used when referring to shared knowledge between speaker and listener",
+      "examples": [
+        {
+          "korean": "오늘 비 온다고 했잖아요.",
+          "english": "They said it would rain today, you know."
+        },
+        {
+          "korean": "그 사람 성격 좋잖아요.",
+          "english": "That person has a good personality, you know."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Implies 'you know this too' or common knowledge"
+    },
+    {
+      "korean": "장점과 단점",
+      "english": "Advantages and disadvantages/pros and cons",
+      "type": "phrase",
+      "category": "evaluation_expression",
+      "context_from_class": "Expression for discussing positive and negative aspects",
+      "examples": [
+        {
+          "korean": "이 방법의 장점과 단점을 말해 주세요.",
+          "english": "Please tell me the advantages and disadvantages of this method."
+        },
+        {
+          "korean": "온라인 수업의 장점과 단점이 있어요.",
+          "english": "Online classes have advantages and disadvantages."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Same as 좋은 점과 나쁜 점"
+    },
+    {
+      "korean": "좋은 점과 나쁜 점",
+      "english": "Good points and bad points",
+      "type": "phrase",
+      "category": "evaluation_expression",
+      "context_from_class": "Alternative expression for pros and cons",
+      "examples": [
+        {
+          "korean": "이 직업의 좋은 점과 나쁜 점을 알려 주세요.",
+          "english": "Please tell me the good points and bad points of this job."
+        },
+        {
+          "korean": "도시 생활의 좋은 점과 나쁜 점이 있어요.",
+          "english": "City life has good points and bad points."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More casual than 장점과 단점"
+    },
+    {
+      "korean": "생각만큼 안 늘어서",
+      "english": "Because it's not improving as much as I thought",
+      "type": "phrase",
+      "category": "comparison_expression",
+      "context_from_class": "Expression comparing expectation with reality",
+      "examples": [
+        {
+          "korean": "생각만큼 안 어려워요.",
+          "english": "It's not as difficult as I thought."
+        },
+        {
+          "korean": "생각만큼 안 비싸네요.",
+          "english": "It's not as expensive as I thought."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: 생각만큼 안 + adjective/verb"
+    },
+    {
+      "korean": "늘다",
+      "english": "To improve, to increase, to grow",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Verb meaning to get better (skills) or increase (quantity)",
+      "examples": [
+        {
+          "korean": "한국어 실력이 많이 늘었어요.",
+          "english": "My Korean skills have improved a lot."
+        },
+        {
+          "korean": "요즘 물가가 많이 늘었어요.",
+          "english": "Prices have increased a lot recently."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㄹ irregular verb - 늘다 becomes 늡니다"
+    },
+    {
+      "korean": "실수가 많다",
+      "english": "To make many mistakes",
+      "type": "phrase",
+      "category": "error_expression",
+      "context_from_class": "Expression about making frequent errors",
+      "examples": [
+        {
+          "korean": "아직 초보라서 실수가 많아요.",
+          "english": "I'm still a beginner so I make many mistakes."
+        },
+        {
+          "korean": "피곤할 때 실수가 많아져요.",
+          "english": "I make more mistakes when I'm tired."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common way to describe error frequency"
+    },
+    {
+      "korean": "죽을사/죽다사",
+      "english": "The Chinese character for 'death' (4)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Explanation of why 4 is written as F in elevators",
+      "examples": [
+        {
+          "korean": "4층 대신 F라고 써요.",
+          "english": "They write F instead of 4th floor."
+        },
+        {
+          "korean": "죽을사 때문에 4를 싫어하는 사람이 많아요.",
+          "english": "Many people dislike 4 because of the death character."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Cultural explanation for avoiding number 4"
+    },
+    {
+      "korean": "발음이 같다",
+      "english": "The pronunciation is the same",
+      "type": "phrase",
+      "category": "language_expression",
+      "context_from_class": "Explanation about homophones",
+      "examples": [
+        {
+          "korean": "이 두 단어는 발음이 같아요.",
+          "english": "These two words have the same pronunciation."
+        },
+        {
+          "korean": "한자가 다르지만 발음이 같아요.",
+          "english": "The Chinese characters are different but the pronunciation is the same."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used to explain homophones"
+    },
+    {
+      "korean": "알면 알수록",
+      "english": "The more you know",
+      "type": "grammar",
+      "category": "comparison_pattern",
+      "context_from_class": "Pattern showing increasing degree",
+      "examples": [
+        {
+          "korean": "공부하면 할수록 어려워져요.",
+          "english": "The more I study, the more difficult it becomes."
+        },
+        {
+          "korean": "만나면 만날수록 좋아해요.",
+          "english": "The more I meet them, the more I like them."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: Verb + 면 + Verb + ㄹ수록"
+    },
+    {
+      "korean": "은데도/는데도",
+      "english": "Even though, despite",
+      "type": "grammar",
+      "category": "contrast_connector",
+      "context_from_class": "Grammar pattern showing contrast with emphasis",
+      "examples": [
+        {
+          "korean": "비가 오는데도 나갔어요.",
+          "english": "I went out even though it was raining."
+        },
+        {
+          "korean": "늦은 시간인데도 불이 켜져 있어요.",
+          "english": "The lights are on even though it's late."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Stronger than just 는데, adds emphasis"
+    },
+    {
+      "korean": "불구하고",
+      "english": "Despite, in spite of",
+      "type": "grammar",
+      "category": "formal_connector",
+      "context_from_class": "Formal expression meaning despite, often used in writing",
+      "examples": [
+        {
+          "korean": "어려움에도 불구하고 성공했어요.",
+          "english": "I succeeded despite the difficulties."
+        },
+        {
+          "korean": "반대에도 불구하고 계획을 진행했어요.",
+          "english": "We proceeded with the plan despite the opposition."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 는데도, often used in writing"
+    },
+    {
+      "korean": "하면 할수록",
+      "english": "The more you do",
+      "type": "grammar",
+      "category": "comparison_pattern",
+      "context_from_class": "Pattern showing increasing degree with repetition",
+      "examples": [
+        {
+          "korean": "운동하면 할수록 건강해져요.",
+          "english": "The more you exercise, the healthier you become."
+        },
+        {
+          "korean": "생각하면 할수록 복잡해요.",
+          "english": "The more I think about it, the more complicated it gets."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often shortened to just 할수록 in speech"
+    },
+    {
+      "korean": "뻔하다",
+      "english": "Almost happened, nearly did",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Expression for something that almost happened but didn't",
+      "examples": [
+        {
+          "korean": "넘어질 뻔했어요.",
+          "english": "I almost fell down."
+        },
+        {
+          "korean": "지각할 뻔했지만 간신히 도착했어요.",
+          "english": "I almost was late but barely made it."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with ㄹ 뻔했다 pattern"
+    },
+    {
+      "korean": "늦을 뻔했어요",
+      "english": "I almost was late",
+      "type": "phrase",
+      "category": "near_miss_expression",
+      "context_from_class": "Example of 뻔하다 pattern",
+      "examples": [
+        {
+          "korean": "교통이 막혀서 늦을 뻔했어요.",
+          "english": "I almost was late because of traffic."
+        },
+        {
+          "korean": "알람이 안 울려서 늦을 뻔했어요.",
+          "english": "I almost was late because my alarm didn't go off."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for near lateness"
+    },
+    {
+      "korean": "큰일 날 뻔했어요",
+      "english": "Something big almost happened/I almost got in big trouble",
+      "type": "phrase",
+      "category": "near_miss_expression",
+      "context_from_class": "Expression for almost having a serious problem",
+      "examples": [
+        {
+          "korean": "가스를 안 끄고 나갔어요. 큰일 날 뻔했어요.",
+          "english": "I left without turning off the gas. Something big almost happened."
+        },
+        {
+          "korean": "중요한 서류를 잃어버릴 뻔했어요. 큰일 날 뻔했어요.",
+          "english": "I almost lost important documents. I almost got in big trouble."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used when narrowly avoiding disaster"
+    },
+    {
+      "korean": "사고가 날 뻔했어요",
+      "english": "An accident almost happened",
+      "type": "phrase",
+      "category": "near_miss_expression",
+      "context_from_class": "Expression for narrowly avoiding an accident",
+      "examples": [
+        {
+          "korean": "갑자기 차가 나와서 사고가 날 뻔했어요.",
+          "english": "A car suddenly came out and an accident almost happened."
+        },
+        {
+          "korean": "빙판길에서 사고가 날 뻔했어요.",
+          "english": "An accident almost happened on the icy road."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for traffic near-misses"
+    },
+    {
+      "korean": "다칠 뻔했어요",
+      "english": "I almost got hurt",
+      "type": "phrase",
+      "category": "near_miss_expression",
+      "context_from_class": "Expression for narrowly avoiding injury",
+      "examples": [
+        {
+          "korean": "계단에서 넘어져서 다칠 뻔했어요.",
+          "english": "I tripped on the stairs and almost got hurt."
+        },
+        {
+          "korean": "공사장 근처에서 다칠 뻔했어요.",
+          "english": "I almost got hurt near the construction site."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for physical near-misses"
+    },
+    {
+      "korean": "급하게",
+      "english": "Hurriedly, in a rush",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Adverb describing doing something in a hurry",
+      "examples": [
+        {
+          "korean": "급하게 준비해서 빠뜨린 게 있어요.",
+          "english": "I prepared hurriedly so I missed something."
+        },
+        {
+          "korean": "급하게 먹으면 체해요.",
+          "english": "If you eat hurriedly, you'll get indigestion."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Adverb form of 급하다"
+    },
+    {
+      "korean": "다행이에요",
+      "english": "That's fortunate/I'm glad",
+      "type": "phrase",
+      "category": "relief_expression",
+      "context_from_class": "Expression of relief or gratitude for good outcome",
+      "examples": [
+        {
+          "korean": "비가 그쳤네요. 다행이에요.",
+          "english": "The rain stopped. That's fortunate."
+        },
+        {
+          "korean": "시험이 쉬웠어요. 다행이에요.",
+          "english": "The exam was easy. I'm glad."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression of relief"
+    }
+  ],
+  "statistics": {
+    "vocabulary_count": 35,
+    "phrase_count": 28,
+    "grammar_count": 15,
+    "correction_count": 9
+  }
+}

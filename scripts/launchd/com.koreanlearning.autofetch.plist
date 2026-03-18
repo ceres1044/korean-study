@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.koreanlearning.autofetch</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jingchen/code/koreanlearning/.venv/bin/python</string>
+        <string>/Users/jingchen/code/koreanlearning/auto_fetch.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jingchen/code/koreanlearning</string>
+
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Weekday</key>
+            <integer>2</integer>
+            <key>Hour</key>
+            <integer>11</integer>
+            <key>Minute</key>
+            <integer>30</integer>
+        </dict>
+        <dict>
+            <key>Weekday</key>
+            <integer>3</integer>
+            <key>Hour</key>
+            <integer>11</integer>
+            <key>Minute</key>
+            <integer>30</integer>
+        </dict>
+    </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>TZ</key>
+        <string>America/New_York</string>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jingchen/code/koreanlearning/output/auto_fetch.stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/jingchen/code/koreanlearning/output/auto_fetch.stderr.log</string>
+</dict>
+</plist>

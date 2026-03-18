@@ -1,0 +1,1342 @@
+{
+  "session_date": "2025-11-17",
+  "total_items_extracted": 70,
+  "learning_materials": [
+    {
+      "korean": "알면 알수록",
+      "english": "the more you know",
+      "type": "grammar",
+      "category": "comparative_pattern",
+      "context_from_class": "Teacher explained this pattern with Korean culture example",
+      "examples": [
+        {
+          "korean": "운동하면 할수록 건강해져요.",
+          "english": "The more you exercise, the healthier you become."
+        },
+        {
+          "korean": "책을 읽으면 읽을수록 똑똑해져요.",
+          "english": "The more books you read, the smarter you become."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: Verb + (으)면 + same verb + (으)ㄹ수록"
+    },
+    {
+      "korean": "하면 할수록",
+      "english": "the more you do",
+      "type": "grammar",
+      "category": "comparative_pattern",
+      "context_from_class": "Used in example about Korean language difficulty",
+      "examples": [
+        {
+          "korean": "일하면 할수록 돈을 많이 벌어요.",
+          "english": "The more you work, the more money you earn."
+        },
+        {
+          "korean": "생각하면 할수록 복잡해져요.",
+          "english": "The more you think about it, the more complicated it becomes."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can omit first verb when same verb is repeated"
+    },
+    {
+      "korean": "거든요",
+      "english": "because/you know (reason giving ending)",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Teacher explained it gives reasons and replaces 왜냐하면",
+      "examples": [
+        {
+          "korean": "오늘 못 가요. 바쁘거든요.",
+          "english": "I can't go today. I'm busy, you know."
+        },
+        {
+          "korean": "이 음식 맛있어요. 엄마가 만들었거든요.",
+          "english": "This food is delicious. My mom made it, you see."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Cannot use with 왜냐하면 together"
+    },
+    {
+      "korean": "졸리다",
+      "english": "to be sleepy",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher corrected pronunciation and explained meaning",
+      "examples": [
+        {
+          "korean": "어제 늦게 자서 너무 졸려요.",
+          "english": "I went to bed late yesterday, so I'm very sleepy."
+        },
+        {
+          "korean": "수업 시간에 졸리면 안 돼요.",
+          "english": "You shouldn't be sleepy during class time."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Different from 졸여요 - pronunciation is important"
+    },
+    {
+      "korean": "될수록",
+      "english": "if possible/as much as possible",
+      "type": "grammar",
+      "category": "adverbial_expression",
+      "context_from_class": "Teacher explained it means 가능하면",
+      "examples": [
+        {
+          "korean": "될수록 일찍 와주세요.",
+          "english": "Please come as early as possible."
+        },
+        {
+          "korean": "될수록 조용히 해주세요.",
+          "english": "Please be as quiet as possible."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Same meaning as 가능하면"
+    },
+    {
+      "korean": "갈수록",
+      "english": "more and more/increasingly",
+      "type": "grammar",
+      "category": "adverbial_expression",
+      "context_from_class": "Teacher explained difference from 될수록, relates to time passing",
+      "examples": [
+        {
+          "korean": "갈수록 날씨가 추워져요.",
+          "english": "The weather is getting colder and colder."
+        },
+        {
+          "korean": "갈수록 한국어가 어려워져요.",
+          "english": "Korean is getting more and more difficult."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Related to time progression, different from 될수록"
+    },
+    {
+      "korean": "갈수록 태산이다",
+      "english": "it's getting worse and worse (problems piling up)",
+      "type": "phrase",
+      "category": "idiom",
+      "context_from_class": "Teacher used example of student's bad day getting worse",
+      "examples": [
+        {
+          "korean": "시험도 망치고 친구와도 싸웠어요. 갈수록 태산이네요.",
+          "english": "I failed the test and fought with my friend. Things are getting worse and worse."
+        },
+        {
+          "korean": "차도 고장 나고 비도 와요. 갈수록 태산이에요.",
+          "english": "The car broke down and it's raining too. Problems keep piling up."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used when problems keep accumulating"
+    },
+    {
+      "korean": "키가 크면 클수록",
+      "english": "the taller you are",
+      "type": "grammar",
+      "category": "comparative_pattern",
+      "context_from_class": "Example used for basketball advantage",
+      "examples": [
+        {
+          "korean": "머리가 좋으면 좋을수록 성공해요.",
+          "english": "The smarter you are, the more successful you become."
+        },
+        {
+          "korean": "예쁘면 예쁠수록 인기가 많아요.",
+          "english": "The prettier you are, the more popular you become."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern with adjectives: adjective + (으)면 + same adjective + (으)ㄹ수록"
+    },
+    {
+      "korean": "많으면 많을수록",
+      "english": "the more there is",
+      "type": "grammar",
+      "category": "comparative_pattern",
+      "context_from_class": "Used in money example",
+      "examples": [
+        {
+          "korean": "친구가 많으면 많을수록 행복해요.",
+          "english": "The more friends you have, the happier you are."
+        },
+        {
+          "korean": "경험이 많으면 많을수록 도움이 돼요.",
+          "english": "The more experience you have, the more helpful it is."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern with 많다"
+    },
+    {
+      "korean": "지각하다",
+      "english": "to be late (for class/meeting)",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained difference from 늦다",
+      "examples": [
+        {
+          "korean": "수업에 지각하면 안 돼요.",
+          "english": "You shouldn't be late for class."
+        },
+        {
+          "korean": "회의에 지각할 뻔했어요.",
+          "english": "I almost was late for the meeting."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 늦다, often used for classes and meetings"
+    },
+    {
+      "korean": "뻔하다",
+      "english": "almost happened/nearly",
+      "type": "grammar",
+      "category": "auxiliary_verb",
+      "context_from_class": "Teacher explained with 지각할 뻔했어요 example",
+      "examples": [
+        {
+          "korean": "사고 날 뻔했어요.",
+          "english": "I almost had an accident."
+        },
+        {
+          "korean": "넘어질 뻔했어요.",
+          "english": "I almost fell down."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with verb stem + ㄹ 뻔했다"
+    },
+    {
+      "korean": "밤새",
+      "english": "all night long",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher explained meaning and compared with 밤늦도록",
+      "examples": [
+        {
+          "korean": "밤새 공부했어요.",
+          "english": "I studied all night long."
+        },
+        {
+          "korean": "밤새 비가 왔어요.",
+          "english": "It rained all night long."
+        }
+      ],
+      "confidence": "high",
+      "notes": "From night start to morning, different from 밤늦도록"
+    },
+    {
+      "korean": "밤늦도록",
+      "english": "until late at night",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher compared with 밤새",
+      "examples": [
+        {
+          "korean": "밤늦도록 일했어요.",
+          "english": "I worked until late at night."
+        },
+        {
+          "korean": "밤늦도록 친구와 이야기했어요.",
+          "english": "I talked with my friend until late at night."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Less time than 밤새, until around 1-2 AM"
+    },
+    {
+      "korean": "는 바람에",
+      "english": "because of (unexpected situation)",
+      "type": "grammar",
+      "category": "causal_expression",
+      "context_from_class": "Teacher explained it's for unexpected, problematic situations",
+      "examples": [
+        {
+          "korean": "비가 오는 바람에 소풍을 못 갔어요.",
+          "english": "We couldn't go on the picnic because it rained unexpectedly."
+        },
+        {
+          "korean": "버스가 고장 나는 바람에 늦었어요.",
+          "english": "I was late because the bus broke down unexpectedly."
+        }
+      ],
+      "confidence": "high",
+      "notes": "For unexpected, usually negative situations"
+    },
+    {
+      "korean": "세탁기",
+      "english": "washing machine",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in example about machine breaking down",
+      "examples": [
+        {
+          "korean": "세탁기가 고장 났어요.",
+          "english": "The washing machine is broken."
+        },
+        {
+          "korean": "새 세탁기를 사야 해요.",
+          "english": "I need to buy a new washing machine."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Related to 빨래하다 (to do laundry)"
+    },
+    {
+      "korean": "빨래하다",
+      "english": "to do laundry",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained as alternative to 세탁하다",
+      "examples": [
+        {
+          "korean": "주말에 빨래해야 해요.",
+          "english": "I need to do laundry on the weekend."
+        },
+        {
+          "korean": "빨래하는 것을 깜빡했어요.",
+          "english": "I forgot to do the laundry."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More casual than 세탁하다"
+    },
+    {
+      "korean": "하마터면",
+      "english": "if things had gone slightly wrong/almost",
+      "type": "grammar",
+      "category": "adverbial_expression",
+      "context_from_class": "Teacher explained as same meaning as 조금 잘못하면",
+      "examples": [
+        {
+          "korean": "하마터면 큰일 날 뻔했어요.",
+          "english": "It almost became a big problem."
+        },
+        {
+          "korean": "하마터면 시험을 못 볼 뻔했어요.",
+          "english": "I almost couldn't take the exam."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Same as 조금 잘못하면, used with 뻔하다"
+    },
+    {
+      "korean": "큰일 나다",
+      "english": "big trouble happens/serious problem occurs",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Used in traffic accident near-miss example",
+      "examples": [
+        {
+          "korean": "숙제를 안 했어요. 큰일 났어요.",
+          "english": "I didn't do my homework. I'm in big trouble."
+        },
+        {
+          "korean": "지갑을 잃어버렸어요. 큰일 났네요.",
+          "english": "I lost my wallet. This is a big problem."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for serious problems"
+    },
+    {
+      "korean": "급하게",
+      "english": "hurriedly/in a rush",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Used in rushing to school example",
+      "examples": [
+        {
+          "korean": "급하게 집에서 나왔어요.",
+          "english": "I left home in a hurry."
+        },
+        {
+          "korean": "급하게 먹으면 배탈 나요.",
+          "english": "If you eat in a hurry, you'll get a stomachache."
+        }
+      ],
+      "confidence": "high",
+      "notes": "From 급하다 (to be urgent)"
+    },
+    {
+      "korean": "빨간 불",
+      "english": "red light",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in traffic light example",
+      "examples": [
+        {
+          "korean": "빨간 불일 때는 건드리면 안 돼요.",
+          "english": "You shouldn't cross when it's a red light."
+        },
+        {
+          "korean": "빨간 불을 무시하고 갔어요.",
+          "english": "I ignored the red light and went."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Traffic light terminology"
+    },
+    {
+      "korean": "등산",
+      "english": "mountain climbing/hiking",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in university club activity example",
+      "examples": [
+        {
+          "korean": "주말에 등산 가요.",
+          "english": "I'm going hiking on the weekend."
+        },
+        {
+          "korean": "등산은 건강에 좋아요.",
+          "english": "Hiking is good for your health."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Popular activity in Korea"
+    },
+    {
+      "korean": "넘어지다",
+      "english": "to fall down/trip",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in hiking accident example",
+      "examples": [
+        {
+          "korean": "길에서 넘어졌어요.",
+          "english": "I fell down on the street."
+        },
+        {
+          "korean": "조심하세요. 넘어질 수 있어요.",
+          "english": "Be careful. You might fall."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Different from 미끄러지다 (to slip)"
+    },
+    {
+      "korean": "다치다",
+      "english": "to get hurt/injured",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in injury examples",
+      "examples": [
+        {
+          "korean": "운동하다가 다쳤어요.",
+          "english": "I got hurt while exercising."
+        },
+        {
+          "korean": "다치지 않게 조심하세요.",
+          "english": "Be careful not to get hurt."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common verb for injuries"
+    },
+    {
+      "korean": "잃어버리다",
+      "english": "to lose (something)",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in wallet example",
+      "examples": [
+        {
+          "korean": "열쇠를 잃어버렸어요.",
+          "english": "I lost my keys."
+        },
+        {
+          "korean": "중요한 서류를 잃어버릴 뻔했어요.",
+          "english": "I almost lost important documents."
+        }
+      ],
+      "confidence": "high",
+      "notes": "For losing physical objects"
+    },
+    {
+      "korean": "동아리",
+      "english": "club/circle (university club)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in university club context",
+      "examples": [
+        {
+          "korean": "대학교에서 동아리 활동을 해요.",
+          "english": "I participate in club activities at university."
+        },
+        {
+          "korean": "어떤 동아리에 들어갈 거예요?",
+          "english": "Which club are you going to join?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common in university context"
+    },
+    {
+      "korean": "미끄러지다",
+      "english": "to slip/slide",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained difference from 넘어지다",
+      "examples": [
+        {
+          "korean": "비 온 후에 길에서 미끄러졌어요.",
+          "english": "I slipped on the road after it rained."
+        },
+        {
+          "korean": "계단에서 미끄러지지 않게 조심하세요.",
+          "english": "Be careful not to slip on the stairs."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Sliding motion, different from 넘어지다"
+    },
+    {
+      "korean": "깜빡하다",
+      "english": "to forget (momentarily)",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained various ways to say 'forget'",
+      "examples": [
+        {
+          "korean": "약속을 깜빡했어요.",
+          "english": "I forgot about the appointment."
+        },
+        {
+          "korean": "문 잠그는 것을 깜빡했어요.",
+          "english": "I forgot to lock the door."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Casual way to say forget"
+    },
+    {
+      "korean": "까먹다",
+      "english": "to forget (slang)",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained as slang version of forget",
+      "examples": [
+        {
+          "korean": "이름을 까먹었어요.",
+          "english": "I forgot the name."
+        },
+        {
+          "korean": "숙제하는 것을 까먹었어요.",
+          "english": "I forgot to do homework."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Very casual/slang expression"
+    },
+    {
+      "korean": "잊다",
+      "english": "to forget",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained formal way to say forget",
+      "examples": [
+        {
+          "korean": "그 일을 잊을 수 없어요.",
+          "english": "I can't forget that incident."
+        },
+        {
+          "korean": "잊지 마세요.",
+          "english": "Don't forget."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 깜빡하다 or 까먹다"
+    },
+    {
+      "korean": "더니",
+      "english": "and then (after experiencing something)",
+      "type": "grammar",
+      "category": "connective_ending",
+      "context_from_class": "Teacher explained as expressing personal experience background",
+      "examples": [
+        {
+          "korean": "약을 먹었더니 나아졌어요.",
+          "english": "After taking medicine, I got better."
+        },
+        {
+          "korean": "운동했더니 피곤해요.",
+          "english": "After exercising, I'm tired."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Emphasizes personal experience more than 그런데"
+    },
+    {
+      "korean": "더라고요",
+      "english": "I found that/I experienced that",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Teacher explained it shows direct experience",
+      "examples": [
+        {
+          "korean": "그 식당 음식이 맛있더라고요.",
+          "english": "I found that restaurant's food was delicious."
+        },
+        {
+          "korean": "영화가 재미있더라고요.",
+          "english": "I found the movie interesting."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows speaker's direct experience"
+    },
+    {
+      "korean": "식구",
+      "english": "family members",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in professor's family example",
+      "examples": [
+        {
+          "korean": "우리 식구는 네 명이에요.",
+          "english": "Our family has four members."
+        },
+        {
+          "korean": "식구들과 저녁을 먹었어요.",
+          "english": "I had dinner with my family members."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More casual than 가족"
+    },
+    {
+      "korean": "이나",
+      "english": "as many as (surprise at large number)",
+      "type": "grammar",
+      "category": "particle",
+      "context_from_class": "Used in '7명이나' example showing surprise",
+      "examples": [
+        {
+          "korean": "숙제가 열 개나 있어요.",
+          "english": "There are as many as ten homework assignments."
+        },
+        {
+          "korean": "돈을 백만 원이나 썼어요.",
+          "english": "I spent as much as one million won."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows surprise at unexpectedly large amount"
+    },
+    {
+      "korean": "전통",
+      "english": "tradition",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in Korean family living tradition context",
+      "examples": [
+        {
+          "korean": "한국의 전통 음식을 좋아해요.",
+          "english": "I like Korean traditional food."
+        },
+        {
+          "korean": "이것은 우리 가족의 전통이에요.",
+          "english": "This is our family tradition."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Important cultural concept"
+    },
+    {
+      "korean": "모여 살다",
+      "english": "to live together (as a group)",
+      "type": "phrase",
+      "category": "verb_phrase",
+      "context_from_class": "Used about Korean families living together",
+      "examples": [
+        {
+          "korean": "대가족이 한 집에서 모여 살아요.",
+          "english": "The extended family lives together in one house."
+        },
+        {
+          "korean": "친구들과 모여 살고 있어요.",
+          "english": "I'm living together with friends."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Emphasizes group living arrangement"
+    },
+    {
+      "korean": "당황하다",
+      "english": "to be flustered/confused",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in public bath suggestion reaction",
+      "examples": [
+        {
+          "korean": "갑자기 질문을 받아서 당황했어요.",
+          "english": "I was flustered because I suddenly received a question."
+        },
+        {
+          "korean": "길을 잃어서 당황했어요.",
+          "english": "I was confused because I got lost."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common reaction to unexpected situations"
+    },
+    {
+      "korean": "목욕탕",
+      "english": "public bath house",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in cultural difference example",
+      "examples": [
+        {
+          "korean": "할머니는 목욕탕에 자주 가세요.",
+          "english": "Grandmother often goes to the public bath."
+        },
+        {
+          "korean": "목욕탕에서 친구들을 만났어요.",
+          "english": "I met friends at the public bath house."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Korean cultural facility"
+    },
+    {
+      "korean": "출근 시간",
+      "english": "commuting time/rush hour",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in crowded bus example",
+      "examples": [
+        {
+          "korean": "출근 시간에는 지하철이 복잡해요.",
+          "english": "The subway is crowded during rush hour."
+        },
+        {
+          "korean": "출근 시간을 피해서 나가요.",
+          "english": "Let's go out avoiding rush hour."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Important time concept for daily life"
+    },
+    {
+      "korean": "서 있을 자리",
+      "english": "place to stand",
+      "type": "phrase",
+      "category": "noun_phrase",
+      "context_from_class": "Used in crowded bus example",
+      "examples": [
+        {
+          "korean": "지하철에 앉을 자리가 없어요.",
+          "english": "There's no place to sit on the subway."
+        },
+        {
+          "korean": "서 있을 자리도 없을 정도로 복잡해요.",
+          "english": "It's so crowded that there's no place to stand."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: verb + ㄹ 자리"
+    },
+    {
+      "korean": "테니스를 치다",
+      "english": "to play tennis",
+      "type": "phrase",
+      "category": "verb_phrase",
+      "context_from_class": "Used in exercise example with 더니",
+      "examples": [
+        {
+          "korean": "주말에 테니스를 쳐요.",
+          "english": "I play tennis on weekends."
+        },
+        {
+          "korean": "테니스를 치고 싶어요.",
+          "english": "I want to play tennis."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Sports verb - 치다 used with ball sports"
+    },
+    {
+      "korean": "오랜만에",
+      "english": "after a long time",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Used in tennis playing example",
+      "examples": [
+        {
+          "korean": "오랜만에 친구를 만났어요.",
+          "english": "I met a friend after a long time."
+        },
+        {
+          "korean": "오랜만에 고향에 갔어요.",
+          "english": "I went to my hometown after a long time."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common time expression"
+    },
+    {
+      "korean": "발표 자료",
+      "english": "presentation materials",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in office meeting context",
+      "examples": [
+        {
+          "korean": "발표 자료를 준비해야 해요.",
+          "english": "I need to prepare presentation materials."
+        },
+        {
+          "korean": "발표 자료를 이메일로 보냈어요.",
+          "english": "I sent the presentation materials by email."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Business/academic context"
+    },
+    {
+      "korean": "복사하다",
+      "english": "to copy/photocopy",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in office document context",
+      "examples": [
+        {
+          "korean": "서류를 복사해 주세요.",
+          "english": "Please copy the documents."
+        },
+        {
+          "korean": "복사기가 고장 났어요.",
+          "english": "The copy machine is broken."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Office/business vocabulary"
+    },
+    {
+      "korean": "참석자",
+      "english": "participants/attendees",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in meeting context",
+      "examples": [
+        {
+          "korean": "회의 참석자가 많아요.",
+          "english": "There are many meeting participants."
+        },
+        {
+          "korean": "참석자들에게 자료를 나눠줬어요.",
+          "english": "I distributed materials to the participants."
+        }
+      ],
+      "confidence": "high",
+      "notes": "From 참석하다 (to participate)"
+    },
+    {
+      "korean": "낭비",
+      "english": "waste",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in paper waste context",
+      "examples": [
+        {
+          "korean": "시간 낭비하지 마세요.",
+          "english": "Don't waste time."
+        },
+        {
+          "korean": "돈 낭비가 심해요.",
+          "english": "The waste of money is severe."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can be used with various resources"
+    },
+    {
+      "korean": "대형 화면",
+      "english": "large screen",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in meeting presentation context",
+      "examples": [
+        {
+          "korean": "대형 화면으로 영화를 봤어요.",
+          "english": "I watched a movie on a large screen."
+        },
+        {
+          "korean": "대형 화면이 더 보기 좋아요.",
+          "english": "A large screen is better to look at."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Technology/presentation vocabulary"
+    },
+    {
+      "korean": "굳이",
+      "english": "particularly/especially (often with negative)",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Used in 'no need to use paper' context",
+      "examples": [
+        {
+          "korean": "굳이 그렇게 할 필요 없어요.",
+          "english": "There's no particular need to do it that way."
+        },
+        {
+          "korean": "굳이 비싼 것을 살 필요 없어요.",
+          "english": "There's no need to buy expensive things particularly."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used with negative expressions"
+    },
+    {
+      "korean": "어차피",
+      "english": "anyway/in any case",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Used in meeting screen usage context",
+      "examples": [
+        {
+          "korean": "어차피 갈 거니까 같이 가요.",
+          "english": "Since we're going anyway, let's go together."
+        },
+        {
+          "korean": "어차피 비싸니까 안 살 거예요.",
+          "english": "It's expensive anyway, so I won't buy it."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows resigned acceptance or logical conclusion"
+    },
+    {
+      "korean": "달리다",
+      "english": "to run",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained two meanings of 달리다",
+      "examples": [
+        {
+          "korean": "매일 아침에 달려요.",
+          "english": "I run every morning."
+        },
+        {
+          "korean": "버스를 타려고 달렸어요.",
+          "english": "I ran to catch the bus."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Different from 달리다 meaning 'to be attached'"
+    },
+    {
+      "korean": "달리다",
+      "english": "to be attached/equipped with",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained second meaning with refrigerator example",
+      "examples": [
+        {
+          "korean": "이 옷에는 후드가 달려 있어요.",
+          "english": "This clothing has a hood attached."
+        },
+        {
+          "korean": "연필에 지우개가 달려 있어요.",
+          "english": "The pencil has an eraser attached."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Second meaning of 달리다, different from running"
+    },
+    {
+      "korean": "유리문",
+      "english": "glass door",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in refrigerator example",
+      "examples": [
+        {
+          "korean": "유리문이 달린 냉장고를 사고 싶어요.",
+          "english": "I want to buy a refrigerator with a glass door."
+        },
+        {
+          "korean": "유리문이 깨졌어요.",
+          "english": "The glass door broke."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Compound word: 유리 (glass) + 문 (door)"
+    },
+    {
+      "korean": "모자가 달린",
+      "english": "with a hat attached/hooded",
+      "type": "phrase",
+      "category": "descriptive_phrase",
+      "context_from_class": "Teacher's example of attached items",
+      "examples": [
+        {
+          "korean": "모자가 달린 코트를 입어요.",
+          "english": "I wear a coat with a hood."
+        },
+        {
+          "korean": "모자가 달린 옷이 따뜻해요.",
+          "english": "Clothes with hoods are warm."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: noun + 이/가 달린"
+    },
+    {
+      "korean": "리본이 달린",
+      "english": "with a ribbon attached",
+      "type": "phrase",
+      "category": "descriptive_phrase",
+      "context_from_class": "Teacher's example of attached items",
+      "examples": [
+        {
+          "korean": "리본이 달린 원피스를 샀어요.",
+          "english": "I bought a dress with a ribbon."
+        },
+        {
+          "korean": "리본이 달린 신발이 예뻐요.",
+          "english": "Shoes with ribbons are pretty."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: noun + 이/가 달린"
+    },
+    {
+      "korean": "지우개가 달린",
+      "english": "with an eraser attached",
+      "type": "phrase",
+      "category": "descriptive_phrase",
+      "context_from_class": "Teacher's pencil example",
+      "examples": [
+        {
+          "korean": "지우개가 달린 연필이 편해요.",
+          "english": "Pencils with erasers are convenient."
+        },
+        {
+          "korean": "지우개가 달린 펜을 찾고 있어요.",
+          "english": "I'm looking for a pen with an eraser."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common school supply description"
+    },
+    {
+      "korean": "3주년을 맞다",
+      "english": "to mark the 3rd anniversary",
+      "type": "phrase",
+      "category": "verb_phrase",
+      "context_from_class": "Used in sunflower festival context",
+      "examples": [
+        {
+          "korean": "회사가 10주년을 맞았어요.",
+          "english": "The company marked its 10th anniversary."
+        },
+        {
+          "korean": "결혼 5주년을 맞아서 여행을 갔어요.",
+          "english": "We went on a trip to mark our 5th wedding anniversary."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 되다"
+    },
+    {
+      "korean": "해바라기",
+      "english": "sunflower",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in festival context",
+      "examples": [
+        {
+          "korean": "해바라기가 정말 예뻐요.",
+          "english": "Sunflowers are really beautiful."
+        },
+        {
+          "korean": "해바라기 씨를 먹어봤어요.",
+          "english": "I tried sunflower seeds."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Popular flower in Korea"
+    },
+    {
+      "korean": "찾아오다",
+      "english": "to come visit/come to find",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used about people visiting festival",
+      "examples": [
+        {
+          "korean": "많은 관광객이 찾아와요.",
+          "english": "Many tourists come to visit."
+        },
+        {
+          "korean": "친구가 집에 찾아왔어요.",
+          "english": "A friend came to visit my house."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 오다"
+    },
+    {
+      "korean": "장점을 살리다",
+      "english": "to make use of advantages/strengths",
+      "type": "phrase",
+      "category": "verb_phrase",
+      "context_from_class": "Used in village development context",
+      "examples": [
+        {
+          "korean": "자신의 장점을 살려서 일해요.",
+          "english": "I work by making use of my strengths."
+        },
+        {
+          "korean": "이 지역의 장점을 살린 사업이에요.",
+          "english": "It's a business that makes use of this area's advantages."
+        }
+      ],
+      "confidence": "high",
+      "notes": "살리다 means to make alive/active"
+    },
+    {
+      "korean": "들판",
+      "english": "field/plain",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in sunflower field context",
+      "examples": [
+        {
+          "korean": "넓은 들판을 걸었어요.",
+          "english": "I walked across the wide field."
+        },
+        {
+          "korean": "들판에 꽃이 많이 피었어요.",
+          "english": "Many flowers bloomed in the field."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Natural landscape vocabulary"
+    },
+    {
+      "korean": "자랑",
+      "english": "pride/something to be proud of",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used about village's pride in sunflower field",
+      "examples": [
+        {
+          "korean": "이것은 우리 가족의 자랑이에요.",
+          "english": "This is our family's pride."
+        },
+        {
+          "korean": "한국 음식이 자랑스러워요.",
+          "english": "I'm proud of Korean food."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can be noun or used with 자랑스럽다"
+    },
+    {
+      "korean": "특색",
+      "english": "special characteristic/feature",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used about village's special features",
+      "examples": [
+        {
+          "korean": "이 지역만의 특색이 있어요.",
+          "english": "This region has its own special characteristics."
+        },
+        {
+          "korean": "한국 문화의 특색을 배우고 있어요.",
+          "english": "I'm learning the special features of Korean culture."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Similar to 특징 but more about uniqueness"
+    },
+    {
+      "korean": "활용하다",
+      "english": "to utilize/make use of",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used about utilizing village features",
+      "examples": [
+        {
+          "korean": "시간을 잘 활용해야 해요.",
+          "english": "You need to utilize time well."
+        },
+        {
+          "korean": "인터넷을 활용해서 공부해요.",
+          "english": "I study by utilizing the internet."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 사용하다"
+    },
+    {
+      "korean": "축제를 기획하다",
+      "english": "to plan a festival",
+      "type": "phrase",
+      "category": "verb_phrase",
+      "context_from_class": "Used about festival planning",
+      "examples": [
+        {
+          "korean": "학교에서 축제를 기획하고 있어요.",
+          "english": "The school is planning a festival."
+        },
+        {
+          "korean": "축제를 기획하는 일이 어려워요.",
+          "english": "Planning a festival is difficult work."
+        }
+      ],
+      "confidence": "high",
+      "notes": "기획 means planning/organizing"
+    },
+    {
+      "korean": "관광객",
+      "english": "tourist",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in festival visitor context",
+      "examples": [
+        {
+          "korean": "제주도에 관광객이 많아요.",
+          "english": "There are many tourists in Jeju Island."
+        },
+        {
+          "korean": "관광객들이 사진을 찍고 있어요.",
+          "english": "Tourists are taking pictures."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Tourism vocabulary"
+    },
+    {
+      "korean": "발길을 이끌다",
+      "english": "to attract visitors/draw people",
+      "type": "phrase",
+      "category": "idiom",
+      "context_from_class": "Used about attracting tourists",
+      "examples": [
+        {
+          "korean": "아름다운 경치가 사람들의 발길을 이끌어요.",
+          "english": "Beautiful scenery attracts people."
+        },
+        {
+          "korean": "맛있는 음식이 관광객의 발길을 이끌었어요.",
+          "english": "Delicious food attracted tourists."
+        }
+      ],
+      "confidence": "high",
+      "notes": "발길 = footsteps, 이끌다 = to lead"
+    },
+    {
+      "korean": "특산품",
+      "english": "local specialty products",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used about local products sold at festival",
+      "examples": [
+        {
+          "korean": "이 지역의 특산품을 샀어요.",
+          "english": "I bought local specialty products from this region."
+        },
+        {
+          "korean": "특산품이 관광객들에게 인기가 좋아요.",
+          "english": "Local specialty products are popular with tourists."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Regional/local products"
+    },
+    {
+      "korean": "해바라기 씨",
+      "english": "sunflower seeds",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in oil making context",
+      "examples": [
+        {
+          "korean": "해바라기 씨로 기름을 만들어요.",
+          "english": "Oil is made from sunflower seeds."
+        },
+        {
+          "korean": "해바라기 씨를 간식으로 먹어요.",
+          "english": "I eat sunflower seeds as a snack."
+        }
+      ],
+      "confidence": "high",
+      "notes": "씨 means seed"
+    },
+    {
+      "korean": "인기가 좋다",
+      "english": "to be popular",
+      "type": "phrase",
+      "category": "adjective_phrase",
+      "context_from_class": "Used about sunflower oil popularity",
+      "examples": [
+        {
+          "korean": "이 가수가 젊은 사람들에게 인기가 좋아요.",
+          "english": "This singer is popular with young people."
+        },
+        {
+          "korean": "한국 드라마가 외국에서 인기가 좋아요.",
+          "english": "Korean dramas are popular overseas."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can also say 인기가 많다"
+    },
+    {
+      "korean": "발전시키다",
+      "english": "to develop/improve",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used about developing the festival further",
+      "examples": [
+        {
+          "korean": "한국어 실력을 발전시키고 싶어요.",
+          "english": "I want to develop my Korean skills."
+        },
+        {
+          "korean": "이 지역을 더 발전시켜야 해요.",
+          "english": "We need to develop this region further."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Causative form of 발전하다"
+    },
+    {
+      "korean": "가진 것",
+      "english": "what one has/possessions",
+      "type": "grammar",
+      "category": "noun_phrase",
+      "context_from_class": "Teacher explained 가지다 pattern",
+      "examples": [
+        {
+          "korean": "내가 가진 것을 나눠주고 싶어요.",
+          "english": "I want to share what I have."
+        },
+        {
+          "korean": "우리가 가진 것으로 최선을 다해요.",
+          "english": "Let's do our best with what we have."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern: 가지다 + ㄴ 것"
+    }
+  ],
+  "statistics": {
+    "vocabulary_count": 45,
+    "phrase_count": 18,
+    "grammar_count": 12,
+    "correction_count": 12
+  }
+}

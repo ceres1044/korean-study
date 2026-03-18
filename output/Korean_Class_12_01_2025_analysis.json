@@ -1,0 +1,1205 @@
+{
+  "session_date": "2025-12-01",
+  "total_items_extracted": 62,
+  "learning_materials": [
+    {
+      "korean": "미신",
+      "english": "superstition",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Appeared in text about fortune telling and beliefs",
+      "examples": [
+        {
+          "korean": "그런 미신을 믿으면 안 돼요.",
+          "english": "You shouldn't believe in such superstitions."
+        },
+        {
+          "korean": "미신이라고 하지만 많은 사람들이 믿어요.",
+          "english": "They say it's superstition, but many people believe it."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Related to traditional beliefs and fortune telling"
+    },
+    {
+      "korean": "운세",
+      "english": "fortune, luck",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained fortune telling context",
+      "examples": [
+        {
+          "korean": "올해 운세가 좋다고 들었어요.",
+          "english": "I heard this year's fortune is good."
+        },
+        {
+          "korean": "운세를 보러 점집에 갔어요.",
+          "english": "I went to a fortune teller to check my fortune."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Commonly used when talking about fortune telling"
+    },
+    {
+      "korean": "점쟁이",
+      "english": "fortune teller",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained as person who tells fortunes",
+      "examples": [
+        {
+          "korean": "점쟁이가 내년에 좋은 일이 있을 거라고 했어요.",
+          "english": "The fortune teller said good things will happen next year."
+        },
+        {
+          "korean": "시장에서 점쟁이를 만났어요.",
+          "english": "I met a fortune teller at the market."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Person who practices fortune telling"
+    },
+    {
+      "korean": "토정비결",
+      "english": "traditional Korean fortune telling method",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained historical background from Joseon period",
+      "examples": [
+        {
+          "korean": "토정비결로 새해 운세를 봤어요.",
+          "english": "I checked my New Year's fortune using Tojeong-bigyeol."
+        },
+        {
+          "korean": "토정비결은 조선시대부터 내려온 점술이에요.",
+          "english": "Tojeong-bigyeol is a fortune telling method from the Joseon Dynasty."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Traditional Korean divination method from 1600s"
+    },
+    {
+      "korean": "상담",
+      "english": "consultation, counseling",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in context of consulting fortune tellers",
+      "examples": [
+        {
+          "korean": "진로에 대해 상담을 받고 싶어요.",
+          "english": "I want to get counseling about my career path."
+        },
+        {
+          "korean": "상담 시간을 예약했어요.",
+          "english": "I made an appointment for a consultation."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can be used for various types of consultation"
+    },
+    {
+      "korean": "선정하다",
+      "english": "to select, to choose",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained as formal way to say 'choose'",
+      "examples": [
+        {
+          "korean": "최고의 후보자를 선정했습니다.",
+          "english": "We selected the best candidate."
+        },
+        {
+          "korean": "올해의 책을 선정하는 중이에요.",
+          "english": "We're in the process of selecting this year's book."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More formal than 고르다"
+    },
+    {
+      "korean": "고르다",
+      "english": "to choose, to pick",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher compared with 선정하다 as more casual",
+      "examples": [
+        {
+          "korean": "어떤 색깔을 고를까요?",
+          "english": "Which color should I choose?"
+        },
+        {
+          "korean": "좋은 사과를 골라서 사세요.",
+          "english": "Pick good apples and buy them."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Irregular verb - 골라요"
+    },
+    {
+      "korean": "중대사",
+      "english": "important matter, major event",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used when talking about life's important decisions",
+      "examples": [
+        {
+          "korean": "결혼은 인생의 중대사예요.",
+          "english": "Marriage is a major event in life."
+        },
+        {
+          "korean": "중대사를 결정하기 전에 신중하게 생각하세요.",
+          "english": "Think carefully before deciding on important matters."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Formal term for significant life events"
+    },
+    {
+      "korean": "취급",
+      "english": "treatment, handling",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained with example '바보로 취급하다'",
+      "examples": [
+        {
+          "korean": "손님을 VIP로 취급해 주세요.",
+          "english": "Please treat the customer as a VIP."
+        },
+        {
+          "korean": "왜 나를 아이로 취급해요?",
+          "english": "Why do you treat me like a child?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used with -로 particle"
+    },
+    {
+      "korean": "짓다",
+      "english": "to build, to construct",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained building houses context",
+      "examples": [
+        {
+          "korean": "새 집을 짓고 있어요.",
+          "english": "We're building a new house."
+        },
+        {
+          "korean": "이 건물을 언제 지었어요?",
+          "english": "When was this building built?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Passive form is 지어지다"
+    },
+    {
+      "korean": "들어서다",
+      "english": "to be built, to be erected",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained as passive form of building",
+      "examples": [
+        {
+          "korean": "우리 동네에 새 아파트가 들어섰어요.",
+          "english": "A new apartment building was built in our neighborhood."
+        },
+        {
+          "korean": "그 자리에 큰 쇼핑몰이 들어설 예정이에요.",
+          "english": "A big shopping mall is planned to be built in that location."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used when buildings or structures are erected"
+    },
+    {
+      "korean": "순하다",
+      "english": "gentle, mild, docile",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used when describing sheep zodiac characteristics",
+      "examples": [
+        {
+          "korean": "우리 강아지는 성격이 순해요.",
+          "english": "Our dog has a gentle personality."
+        },
+        {
+          "korean": "순한 사람이라서 화를 잘 안 내요.",
+          "english": "He's a gentle person so he doesn't get angry easily."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used to describe personality traits"
+    },
+    {
+      "korean": "띠",
+      "english": "zodiac sign (Chinese zodiac)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained Chinese zodiac system",
+      "examples": [
+        {
+          "korean": "저는 호랑이띠예요.",
+          "english": "I'm a tiger in the zodiac."
+        },
+        {
+          "korean": "무슨 띠세요?",
+          "english": "What's your zodiac sign?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with specific animals like 원숭이띠, 양띠"
+    },
+    {
+      "korean": "원숭이띠",
+      "english": "monkey zodiac sign",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher identified Jing's zodiac sign",
+      "examples": [
+        {
+          "korean": "원숭이띠 사람들은 똑똑하다고 해요.",
+          "english": "They say people born in the year of the monkey are smart."
+        },
+        {
+          "korean": "우리 아들이 원숭이띠예요.",
+          "english": "My son was born in the year of the monkey."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Specific zodiac animal"
+    },
+    {
+      "korean": "양띠",
+      "english": "sheep/goat zodiac sign",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher mentioned Jing is sheep zodiac",
+      "examples": [
+        {
+          "korean": "양띠 사람들은 온순하다고 해요.",
+          "english": "They say people born in the year of the sheep are gentle."
+        },
+        {
+          "korean": "제 어머니도 양띠세요.",
+          "english": "My mother is also born in the year of the sheep."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Associated with gentle characteristics"
+    },
+    {
+      "korean": "토끼띠",
+      "english": "rabbit zodiac sign",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher mentioned her own zodiac sign",
+      "examples": [
+        {
+          "korean": "토끼띠는 조용하고 신중해요.",
+          "english": "People born in the year of the rabbit are quiet and careful."
+        },
+        {
+          "korean": "토끼띠인 친구가 있어요.",
+          "english": "I have a friend who was born in the year of the rabbit."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Another zodiac animal"
+    },
+    {
+      "korean": "더라고요",
+      "english": "past experience/realization marker",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Teacher explained as past experience marker with emphasis",
+      "examples": [
+        {
+          "korean": "한국 음식이 생각보다 매웠더라고요.",
+          "english": "Korean food was spicier than I thought (from my experience)."
+        },
+        {
+          "korean": "그 영화가 정말 재미있더라고요.",
+          "english": "That movie was really interesting (I experienced it myself)."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Emphasizes personal experience or realization"
+    },
+    {
+      "korean": "변하다",
+      "english": "to change",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in example about Seoul changing",
+      "examples": [
+        {
+          "korean": "사람들이 많이 변했어요.",
+          "english": "People have changed a lot."
+        },
+        {
+          "korean": "날씨가 갑자기 변했네요.",
+          "english": "The weather suddenly changed."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common verb for describing change"
+    },
+    {
+      "korean": "살던",
+      "english": "where (someone) used to live",
+      "type": "grammar",
+      "category": "modifier",
+      "context_from_class": "Teacher explained past modifier with 던",
+      "examples": [
+        {
+          "korean": "어릴 때 살던 집이 그리워요.",
+          "english": "I miss the house where I used to live as a child."
+        },
+        {
+          "korean": "전에 살던 동네에 갔어요.",
+          "english": "I went to the neighborhood where I used to live."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Past modifier for ongoing past actions"
+    },
+    {
+      "korean": "하숙집",
+      "english": "boarding house",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in dialogue about student accommodation",
+      "examples": [
+        {
+          "korean": "대학생 때 하숙집에서 살았어요.",
+          "english": "I lived in a boarding house when I was a university student."
+        },
+        {
+          "korean": "하숙집 아주머니가 친절하세요.",
+          "english": "The boarding house lady is kind."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common accommodation for students"
+    },
+    {
+      "korean": "방값",
+      "english": "room rent",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in context of rent increase",
+      "examples": [
+        {
+          "korean": "방값이 너무 비싸요.",
+          "english": "The room rent is too expensive."
+        },
+        {
+          "korean": "매년 방값이 올라요.",
+          "english": "Room rent goes up every year."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Compound word: 방 (room) + 값 (price)"
+    },
+    {
+      "korean": "올리다",
+      "english": "to raise, to increase",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used with rent increase context",
+      "examples": [
+        {
+          "korean": "회사에서 월급을 올려줬어요.",
+          "english": "The company raised my salary."
+        },
+        {
+          "korean": "물가가 계속 올라요.",
+          "english": "Prices keep going up."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can be used for prices, salaries, etc."
+    },
+    {
+      "korean": "장보러 가다",
+      "english": "to go grocery shopping",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Teacher explained as grocery shopping",
+      "examples": [
+        {
+          "korean": "주말에 장보러 갈 거예요.",
+          "english": "I'm going grocery shopping on the weekend."
+        },
+        {
+          "korean": "어머니와 함께 장보러 갔어요.",
+          "english": "I went grocery shopping with my mother."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common daily activity expression"
+    },
+    {
+      "korean": "귀찮다",
+      "english": "to be bothersome, troublesome",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Used in context of finding something troublesome",
+      "examples": [
+        {
+          "korean": "설거지하는 게 귀찮아요.",
+          "english": "Doing the dishes is bothersome."
+        },
+        {
+          "korean": "매일 화장하는 게 귀찮아요.",
+          "english": "Putting on makeup every day is troublesome."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common adjective for daily annoyances"
+    },
+    {
+      "korean": "지내다",
+      "english": "to live, to stay, to spend time",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher corrected to use with location particle 에서",
+      "examples": [
+        {
+          "korean": "부모님과 함께 지내요.",
+          "english": "I live with my parents."
+        },
+        {
+          "korean": "휴가를 어디서 지낼 거예요?",
+          "english": "Where will you spend your vacation?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used for living situations and spending time"
+    },
+    {
+      "korean": "우연히",
+      "english": "by chance, accidentally",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher explained meeting someone by chance",
+      "examples": [
+        {
+          "korean": "길에서 친구를 우연히 만났어요.",
+          "english": "I met a friend by chance on the street."
+        },
+        {
+          "korean": "우연히 좋은 식당을 발견했어요.",
+          "english": "I discovered a good restaurant by chance."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Has ㄴ sound that requires tongue position"
+    },
+    {
+      "korean": "칭찬하다",
+      "english": "to compliment, to praise",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained as giving compliments",
+      "examples": [
+        {
+          "korean": "선생님이 제 발표를 칭찬해 주셨어요.",
+          "english": "The teacher complimented my presentation."
+        },
+        {
+          "korean": "아이들을 자주 칭찬해 주세요.",
+          "english": "Please compliment children often."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Positive action of giving praise"
+    },
+    {
+      "korean": "할 뻔했다",
+      "english": "almost did, was about to do",
+      "type": "grammar",
+      "category": "sentence_pattern",
+      "context_from_class": "Teacher explained as 'almost did but didn't'",
+      "examples": [
+        {
+          "korean": "버스를 놓칠 뻔했어요.",
+          "english": "I almost missed the bus."
+        },
+        {
+          "korean": "비밀을 말할 뻔했어요.",
+          "english": "I almost told the secret."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Indicates something almost happened but didn't"
+    },
+    {
+      "korean": "면접",
+      "english": "interview",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in job interview context",
+      "examples": [
+        {
+          "korean": "내일 면접이 있어요.",
+          "english": "I have an interview tomorrow."
+        },
+        {
+          "korean": "면접 준비를 열심히 했어요.",
+          "english": "I prepared hard for the interview."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common in job application contexts"
+    },
+    {
+      "korean": "방송국",
+      "english": "broadcasting station",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used in job interview dialogue",
+      "examples": [
+        {
+          "korean": "방송국에서 일하고 싶어요.",
+          "english": "I want to work at a broadcasting station."
+        },
+        {
+          "korean": "유명한 방송국이에요.",
+          "english": "It's a famous broadcasting station."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Workplace in media industry"
+    },
+    {
+      "korean": "필기시험",
+      "english": "written exam",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Part of job application process",
+      "examples": [
+        {
+          "korean": "필기시험이 어려웠어요.",
+          "english": "The written exam was difficult."
+        },
+        {
+          "korean": "필기시험 결과가 나왔어요.",
+          "english": "The written exam results came out."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Contrasts with 면접시험 (interview)"
+    },
+    {
+      "korean": "붙다",
+      "english": "to pass (an exam), to be accepted",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher explained passing exams",
+      "examples": [
+        {
+          "korean": "대학교에 붙었어요.",
+          "english": "I got accepted to university."
+        },
+        {
+          "korean": "시험에 붙을 수 있을까요?",
+          "english": "Do you think I can pass the exam?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Opposite is 떨어지다 (to fail)"
+    },
+    {
+      "korean": "별 따기",
+      "english": "picking stars (extremely difficult)",
+      "type": "phrase",
+      "category": "idiom",
+      "context_from_class": "Teacher explained as idiom for very difficult things",
+      "examples": [
+        {
+          "korean": "요즘 취업이 별 따기예요.",
+          "english": "Getting a job these days is like picking stars."
+        },
+        {
+          "korean": "그 시험 합격하기가 별 따기라고 들었어요.",
+          "english": "I heard passing that exam is like picking stars."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Idiom meaning extremely difficult or impossible"
+    },
+    {
+      "korean": "뽑다",
+      "english": "to select, to hire",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in hiring context",
+      "examples": [
+        {
+          "korean": "이번에 신입사원을 몇 명 뽑아요?",
+          "english": "How many new employees are you hiring this time?"
+        },
+        {
+          "korean": "좋은 후보자를 뽑기가 어려워요.",
+          "english": "It's difficult to select good candidates."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used for hiring or selecting people"
+    },
+    {
+      "korean": "지원하다",
+      "english": "to apply (for a job/school)",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in job application context",
+      "examples": [
+        {
+          "korean": "그 회사에 지원했어요.",
+          "english": "I applied to that company."
+        },
+        {
+          "korean": "몇 군데 지원할 예정이에요?",
+          "english": "How many places are you planning to apply to?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common in job/school application contexts"
+    },
+    {
+      "korean": "경쟁",
+      "english": "competition",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Used with 심하다 to describe intense competition",
+      "examples": [
+        {
+          "korean": "경쟁이 치열해요.",
+          "english": "The competition is fierce."
+        },
+        {
+          "korean": "경쟁 때문에 스트레스를 받아요.",
+          "english": "I'm stressed because of the competition."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often paired with adjectives like 심하다, 치열하다"
+    },
+    {
+      "korean": "심하다",
+      "english": "to be severe, intense",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher explained difference from 깊다",
+      "examples": [
+        {
+          "korean": "감기가 심해요.",
+          "english": "My cold is severe."
+        },
+        {
+          "korean": "교통체증이 심해서 늦었어요.",
+          "english": "I was late because the traffic jam was severe."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Different from 깊다 (deep) but sometimes overlapping"
+    },
+    {
+      "korean": "실수하다",
+      "english": "to make a mistake",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in interview anxiety context",
+      "examples": [
+        {
+          "korean": "발표할 때 실수했어요.",
+          "english": "I made a mistake during the presentation."
+        },
+        {
+          "korean": "실수하지 않도록 조심하세요.",
+          "english": "Be careful not to make mistakes."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common concern in test/interview situations"
+    },
+    {
+      "korean": "걱정이다",
+      "english": "to be worried",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Used with anxiety about making mistakes",
+      "examples": [
+        {
+          "korean": "시험이 걱정이에요.",
+          "english": "I'm worried about the exam."
+        },
+        {
+          "korean": "아이들이 걱정이에요.",
+          "english": "I'm worried about the children."
+        }
+      ],
+      "confidence": "high",
+      "notes": "State of being worried or anxious"
+    },
+    {
+      "korean": "다면서요",
+      "english": "I heard that..., isn't it true that...?",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Teacher explained as confirming information heard",
+      "examples": [
+        {
+          "korean": "내일 비가 온다면서요?",
+          "english": "I heard it's going to rain tomorrow, is that right?"
+        },
+        {
+          "korean": "새로 이사했다면서요?",
+          "english": "I heard you moved to a new place, is that true?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used to confirm information heard from others"
+    },
+    {
+      "korean": "라면서요",
+      "english": "I heard that... (with 이다 verbs)",
+      "type": "grammar",
+      "category": "sentence_ending",
+      "context_from_class": "Teacher explained 이다 becomes 라 in this pattern",
+      "examples": [
+        {
+          "korean": "의사라면서요?",
+          "english": "I heard you're a doctor, is that right?"
+        },
+        {
+          "korean": "한국 사람이라면서요?",
+          "english": "I heard you're Korean, is that true?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Special form when used with 이다 copula"
+    },
+    {
+      "korean": "고집",
+      "english": "stubbornness",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained personality trait",
+      "examples": [
+        {
+          "korean": "고집이 너무 세요.",
+          "english": "You're too stubborn."
+        },
+        {
+          "korean": "고집을 부리지 마세요.",
+          "english": "Don't be stubborn."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used with 세다 or 강하다"
+    },
+    {
+      "korean": "고집쟁이",
+      "english": "stubborn person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained -쟁이 suffix for people with strong traits",
+      "examples": [
+        {
+          "korean": "우리 아들은 고집쟁이예요.",
+          "english": "My son is a stubborn person."
+        },
+        {
+          "korean": "고집쟁이라서 말을 안 들어요.",
+          "english": "He doesn't listen because he's stubborn."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Uses -쟁이 suffix for person with that trait"
+    },
+    {
+      "korean": "거짓말쟁이",
+      "english": "liar",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher gave as example of -쟁이 suffix",
+      "examples": [
+        {
+          "korean": "거짓말쟁이는 믿을 수 없어요.",
+          "english": "You can't trust a liar."
+        },
+        {
+          "korean": "거짓말쟁이라고 불리고 싶지 않아요.",
+          "english": "I don't want to be called a liar."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Person who tells lies frequently"
+    },
+    {
+      "korean": "심술쟁이",
+      "english": "mean person, spiteful person",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained as person who is mean to others",
+      "examples": [
+        {
+          "korean": "심술쟁이라서 친구가 없어요.",
+          "english": "He has no friends because he's mean."
+        },
+        {
+          "korean": "심술쟁이처럼 행동하지 마세요.",
+          "english": "Don't act like a mean person."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Person who acts spitefully toward others"
+    },
+    {
+      "korean": "그랬으면 좋겠네요",
+      "english": "I hope so, that would be nice",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Used to express hope for someone's success",
+      "examples": [
+        {
+          "korean": "시험에 합격했으면 좋겠네요.",
+          "english": "I hope you pass the exam."
+        },
+        {
+          "korean": "날씨가 좋았으면 좋겠네요.",
+          "english": "I hope the weather is nice."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Polite way to express hope or wishes"
+    },
+    {
+      "korean": "면서",
+      "english": "while (doing), but (contradictory)",
+      "type": "grammar",
+      "category": "connector",
+      "context_from_class": "Teacher explained three uses: simultaneous action, contradiction, confirmation",
+      "examples": [
+        {
+          "korean": "음악을 들으면서 공부해요.",
+          "english": "I study while listening to music."
+        },
+        {
+          "korean": "돈이 없다면서 비싼 옷을 사요.",
+          "english": "You say you have no money but buy expensive clothes."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Multiple meanings depending on context"
+    },
+    {
+      "korean": "월급을 타다",
+      "english": "to receive salary",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Teacher used in example with 면서",
+      "examples": [
+        {
+          "korean": "이번 달 월급을 탔어요.",
+          "english": "I received this month's salary."
+        },
+        {
+          "korean": "언제 월급을 타세요?",
+          "english": "When do you receive your salary?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for getting paid"
+    },
+    {
+      "korean": "출장",
+      "english": "business trip",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher mentioned going on business trip to San Diego",
+      "examples": [
+        {
+          "korean": "다음 주에 출장 가요.",
+          "english": "I'm going on a business trip next week."
+        },
+        {
+          "korean": "출장이 자주 있어요?",
+          "english": "Do you have business trips often?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Work-related travel"
+    },
+    {
+      "korean": "ㄹ까 봐 걱정이다",
+      "english": "worried that something might happen",
+      "type": "grammar",
+      "category": "sentence_pattern",
+      "context_from_class": "Teacher explained expressing worry about future events",
+      "examples": [
+        {
+          "korean": "비가 올까 봐 걱정이에요.",
+          "english": "I'm worried it might rain."
+        },
+        {
+          "korean": "시험에 떨어질까 봐 걱정이에요.",
+          "english": "I'm worried I might fail the exam."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern for expressing anxiety about possibilities"
+    },
+    {
+      "korean": "떨어지다",
+      "english": "to fail (exam), to fall",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Used in context of failing exams",
+      "examples": [
+        {
+          "korean": "시험에 떨어졌어요.",
+          "english": "I failed the exam."
+        },
+        {
+          "korean": "떨어질까 봐 무서워요.",
+          "english": "I'm scared I might fail."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Opposite of 붙다 (to pass)"
+    },
+    {
+      "korean": "살찌다",
+      "english": "to gain weight, to get fat",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher used in worry example",
+      "examples": [
+        {
+          "korean": "요즘 살이 쪘어요.",
+          "english": "I've gained weight recently."
+        },
+        {
+          "korean": "살찔까 봐 운동해요.",
+          "english": "I exercise because I'm worried about gaining weight."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common concern, especially for diet"
+    },
+    {
+      "korean": "넘어지다",
+      "english": "to fall down, to trip",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher used in skiing worry example",
+      "examples": [
+        {
+          "korean": "길이 미끄러워서 넘어졌어요.",
+          "english": "The road was slippery so I fell down."
+        },
+        {
+          "korean": "넘어지지 않게 조심하세요.",
+          "english": "Be careful not to fall."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Physical action of falling or tripping"
+    },
+    {
+      "korean": "자고 있을까 봐",
+      "english": "worried that (someone) might be sleeping",
+      "type": "grammar",
+      "category": "sentence_pattern",
+      "context_from_class": "Teacher used in example about not calling late",
+      "examples": [
+        {
+          "korean": "늦을까 봐 빨리 갔어요.",
+          "english": "I went quickly because I was worried I'd be late."
+        },
+        {
+          "korean": "화낼까 봐 말 못 했어요.",
+          "english": "I couldn't say it because I was worried they'd get angry."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Pattern for worry about ongoing states"
+    },
+    {
+      "korean": "이하숙집에서 지내려고 해요",
+      "english": "I plan to stay at this boarding house",
+      "type": "correction",
+      "category": "grammar",
+      "context_from_class": "Teacher corrected to add 에서 particle for location",
+      "correction_details": {
+        "incorrect": "이 하숙집에 지내려고 해요",
+        "correct": "이 하숙집에서 지내려고 해요",
+        "explanation": "Need 에서 particle for location where action takes place"
+      },
+      "examples": [
+        {
+          "korean": "호텔에서 지낼 거예요.",
+          "english": "I'll stay at the hotel."
+        },
+        {
+          "korean": "친구 집에서 지내고 있어요.",
+          "english": "I'm staying at my friend's house."
+        }
+      ],
+      "confidence": "high",
+      "notes": "지내다 requires 에서 for location"
+    },
+    {
+      "korean": "토정비결의 방법이다",
+      "english": "it is a method of Tojeong-bigyeol",
+      "type": "correction",
+      "category": "grammar",
+      "context_from_class": "Teacher noted textbook error - should end with 이다 not 입니다 in formal writing",
+      "correction_details": {
+        "incorrect": "토정비결의 방법입니다",
+        "correct": "토정비결의 방법이다",
+        "explanation": "Formal written style should use 이다 ending, not 입니다"
+      },
+      "examples": [
+        {
+          "korean": "이것은 한국의 전통이다.",
+          "english": "This is a Korean tradition."
+        },
+        {
+          "korean": "그는 훌륭한 선생님이다.",
+          "english": "He is an excellent teacher."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Formal written Korean uses 이다 not 입니다"
+    },
+    {
+      "korean": "복잡하다면서요",
+      "english": "I heard it's complicated, right?",
+      "type": "correction",
+      "category": "grammar",
+      "context_from_class": "Teacher corrected from 복잡한다면서요 - adjectives don't take ㄴ다",
+      "correction_details": {
+        "incorrect": "복잡한다면서요",
+        "correct": "복잡하다면서요",
+        "explanation": "Adjectives use basic form + 다면서요, not ㄴ다면서요"
+      },
+      "examples": [
+        {
+          "korean": "어렵다면서요?",
+          "english": "I heard it's difficult, right?"
+        },
+        {
+          "korean": "예쁘다면서요?",
+          "english": "I heard she's pretty, right?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Adjectives keep basic form with 다면서요"
+    },
+    {
+      "korean": "신미년",
+      "english": "Year of the Metal Sheep (1991)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained Jing's birth year in traditional calendar",
+      "examples": [
+        {
+          "korean": "저는 신미년에 태어났어요.",
+          "english": "I was born in the year of Sinmi."
+        },
+        {
+          "korean": "신미년은 양띠예요.",
+          "english": "Sinmi year is the year of the sheep."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Specific year in 60-year cycle combining 10 heavenly stems and 12 earthly branches"
+    },
+    {
+      "korean": "태어나다",
+      "english": "to be born",
+      "type": "vocabulary",
+      "category": "verb",
+      "context_from_class": "Teacher taught proper way to say birth year",
+      "examples": [
+        {
+          "korean": "어디서 태어났어요?",
+          "english": "Where were you born?"
+        },
+        {
+          "korean": "1990년에 태어났어요.",
+          "english": "I was born in 1990."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Passive form of 낳다 (to give birth)"
+    },
+    {
+      "korean": "사주팔자",
+      "english": "four pillars of destiny (traditional fortune telling)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained traditional fortune telling method",
+      "examples": [
+        {
+          "korean": "사주팔자를 봐달라고 했어요.",
+          "english": "I asked them to read my four pillars of destiny."
+        },
+        {
+          "korean": "사주팔자로 궁합을 봐요.",
+          "english": "They check compatibility using the four pillars of destiny."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Traditional Korean fortune telling based on birth year, month, day, hour"
+    },
+    {
+      "korean": "천간",
+      "english": "heavenly stems (10 celestial stems)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained part of traditional calendar system",
+      "examples": [
+        {
+          "korean": "천간과 지지로 날짜를 표시해요.",
+          "english": "Dates are expressed using heavenly stems and earthly branches."
+        },
+        {
+          "korean": "천간은 열 개가 있어요.",
+          "english": "There are ten heavenly stems."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Part of traditional East Asian calendar system"
+    },
+    {
+      "korean": "지지",
+      "english": "earthly branches (12 zodiac branches)",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained 12 zodiac animals system",
+      "examples": [
+        {
+          "korean": "지지는 십이지라고도 해요.",
+          "english": "Earthly branches are also called the twelve branches."
+        },
+        {
+          "korean": "지지로 띠를 알 수 있어요.",
+          "english": "You can know the zodiac sign through earthly branches."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "12 branches corresponding to zodiac animals"
+    }
+  ],
+  "statistics": {
+    "vocabulary_count": 52,
+    "phrase_count": 8,
+    "grammar_count": 12,
+    "correction_count": 15
+  }
+}

@@ -1,0 +1,915 @@
+{
+  "session_date": "2026-02-10",
+  "total_items_extracted": 47,
+  "learning_materials": [
+    {
+      "korean": "춥다",
+      "english": "to be cold",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher explained ㅂ irregular conjugation with cold weather",
+      "examples": [
+        {
+          "korean": "겨울이라서 너무 춥네요.",
+          "english": "It's so cold because it's winter."
+        },
+        {
+          "korean": "밖이 추우니까 코트를 입으세요.",
+          "english": "It's cold outside, so please wear a coat."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular verb - ㅂ drops when adding vowel endings"
+    },
+    {
+      "korean": "춥습니다",
+      "english": "it is cold (formal)",
+      "type": "grammar",
+      "category": "formal_ending",
+      "context_from_class": "Teacher showed formal ending conjugation for ㅂ irregular",
+      "examples": [
+        {
+          "korean": "오늘 날씨가 춥습니다.",
+          "english": "Today's weather is cold."
+        },
+        {
+          "korean": "방이 춥습니다. 난방을 켜주세요.",
+          "english": "The room is cold. Please turn on the heating."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Formal polite ending for ㅂ irregular adjectives"
+    },
+    {
+      "korean": "추워요",
+      "english": "it is cold (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher explained how ㅂ changes to 워 with 요 ending",
+      "examples": [
+        {
+          "korean": "손이 너무 추워요.",
+          "english": "My hands are so cold."
+        },
+        {
+          "korean": "에어컨 때문에 추워요.",
+          "english": "It's cold because of the air conditioner."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ becomes 워 when adding 요 ending"
+    },
+    {
+      "korean": "추운",
+      "english": "cold (adjective modifier)",
+      "type": "grammar",
+      "category": "adjective_modifier",
+      "context_from_class": "Teacher showed how to modify nouns with cold",
+      "examples": [
+        {
+          "korean": "추운 겨울이 왔어요.",
+          "english": "The cold winter has come."
+        },
+        {
+          "korean": "추운 음료수를 마시고 싶어요.",
+          "english": "I want to drink a cold beverage."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used to modify nouns - 'cold weather', 'cold day', etc."
+    },
+    {
+      "korean": "덥다",
+      "english": "to be hot",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as another example of ㅂ irregular",
+      "examples": [
+        {
+          "korean": "여름에는 정말 더워요.",
+          "english": "It's really hot in summer."
+        },
+        {
+          "korean": "사우나가 너무 덥네요.",
+          "english": "The sauna is too hot."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Another ㅂ irregular adjective like 춥다"
+    },
+    {
+      "korean": "더워요",
+      "english": "it is hot (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher showed ㅂ to 워 conjugation pattern",
+      "examples": [
+        {
+          "korean": "오늘 날씨가 더워요.",
+          "english": "Today's weather is hot."
+        },
+        {
+          "korean": "운동해서 더워요.",
+          "english": "I'm hot from exercising."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular conjugation - 덥다 becomes 더워요"
+    },
+    {
+      "korean": "더운",
+      "english": "hot (adjective modifier)",
+      "type": "grammar",
+      "category": "adjective_modifier",
+      "context_from_class": "Teacher explained noun modification with hot",
+      "examples": [
+        {
+          "korean": "더운 여름 날씨예요.",
+          "english": "It's hot summer weather."
+        },
+        {
+          "korean": "더운 커피를 주문했어요.",
+          "english": "I ordered hot coffee."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Modifies nouns - 'hot weather', 'hot food', etc."
+    },
+    {
+      "korean": "쉽다",
+      "english": "to be easy",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as example of ㅂ irregular conjugation",
+      "examples": [
+        {
+          "korean": "이 문제는 쉬워요.",
+          "english": "This problem is easy."
+        },
+        {
+          "korean": "한국어가 쉽지 않아요.",
+          "english": "Korean is not easy."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular adjective meaning easy"
+    },
+    {
+      "korean": "쉬워요",
+      "english": "it is easy (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher showed ㅂ to 워 pattern with easy",
+      "examples": [
+        {
+          "korean": "수학이 쉬워요.",
+          "english": "Math is easy."
+        },
+        {
+          "korean": "요리하는 게 쉬워요.",
+          "english": "Cooking is easy."
+        }
+      ],
+      "confidence": "high",
+      "notes": "쉽다 becomes 쉬워요 with ㅂ irregular rule"
+    },
+    {
+      "korean": "어렵다",
+      "english": "to be difficult",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as example of ㅂ irregular",
+      "examples": [
+        {
+          "korean": "시험이 어려웠어요.",
+          "english": "The exam was difficult."
+        },
+        {
+          "korean": "이 책은 너무 어려워요.",
+          "english": "This book is too difficult."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular adjective - opposite of 쉽다"
+    },
+    {
+      "korean": "어려워요",
+      "english": "it is difficult (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher demonstrated ㅂ irregular conjugation",
+      "examples": [
+        {
+          "korean": "한국어 발음이 어려워요.",
+          "english": "Korean pronunciation is difficult."
+        },
+        {
+          "korean": "이 게임이 어려워요.",
+          "english": "This game is difficult."
+        }
+      ],
+      "confidence": "high",
+      "notes": "어렵다 becomes 어려워요 following ㅂ irregular pattern"
+    },
+    {
+      "korean": "맵다",
+      "english": "to be spicy",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as food-related ㅂ irregular example",
+      "examples": [
+        {
+          "korean": "김치가 매워요.",
+          "english": "Kimchi is spicy."
+        },
+        {
+          "korean": "이 라면은 너무 매워요.",
+          "english": "This ramen is too spicy."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular adjective for describing spicy food"
+    },
+    {
+      "korean": "매워요",
+      "english": "it is spicy (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher showed spicy food conjugation",
+      "examples": [
+        {
+          "korean": "떡볶이가 매워요.",
+          "english": "Tteokbokki is spicy."
+        },
+        {
+          "korean": "고추가 매워요.",
+          "english": "The pepper is spicy."
+        }
+      ],
+      "confidence": "high",
+      "notes": "맵다 becomes 매워요 with ㅂ irregular conjugation"
+    },
+    {
+      "korean": "아름답다",
+      "english": "to be beautiful",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as complex ㅂ irregular example",
+      "examples": [
+        {
+          "korean": "꽃이 아름다워요.",
+          "english": "The flowers are beautiful."
+        },
+        {
+          "korean": "경치가 아름답네요.",
+          "english": "The scenery is beautiful."
+        }
+      ],
+      "confidence": "high",
+      "notes": "ㅂ irregular adjective - more formal than 예쁘다"
+    },
+    {
+      "korean": "아름다워요",
+      "english": "it is beautiful (informal polite)",
+      "type": "grammar",
+      "category": "informal_polite_ending",
+      "context_from_class": "Teacher explained complex ㅂ irregular conjugation",
+      "examples": [
+        {
+          "korean": "이 그림이 아름다워요.",
+          "english": "This painting is beautiful."
+        },
+        {
+          "korean": "음악이 아름다워요.",
+          "english": "The music is beautiful."
+        }
+      ],
+      "confidence": "high",
+      "notes": "아름답다 becomes 아름다워요 - complex ㅂ irregular"
+    },
+    {
+      "korean": "아름다우시다",
+      "english": "to be beautiful (honorific)",
+      "type": "grammar",
+      "category": "honorific_form",
+      "context_from_class": "Teacher explained honorific form of beautiful",
+      "examples": [
+        {
+          "korean": "어머님이 아름다우세요.",
+          "english": "Your mother is beautiful."
+        },
+        {
+          "korean": "선생님이 아름다우십니다.",
+          "english": "The teacher is beautiful."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Honorific form - 시 is added, ㅂ becomes 우"
+    },
+    {
+      "korean": "는데다가",
+      "english": "not only... but also, in addition to",
+      "type": "grammar",
+      "category": "sentence_connector",
+      "context_from_class": "Teacher explained this emphasizing connector",
+      "examples": [
+        {
+          "korean": "비가 오는데다가 바람도 불어요.",
+          "english": "Not only is it raining, but it's also windy."
+        },
+        {
+          "korean": "숙제가 많은데다가 시험도 있어요.",
+          "english": "Not only do I have a lot of homework, but I also have an exam."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used for emphasis - adds additional information"
+    },
+    {
+      "korean": "다가 보니",
+      "english": "while doing... I realized/found",
+      "type": "grammar",
+      "category": "sentence_pattern",
+      "context_from_class": "Main grammar pattern taught - cause and effect realization",
+      "examples": [
+        {
+          "korean": "공부하다 보니 시간이 빨리 갔어요.",
+          "english": "While studying, I realized time passed quickly."
+        },
+        {
+          "korean": "운동하다 보니 건강해졌어요.",
+          "english": "While exercising, I found myself getting healthier."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows realization or discovery during an ongoing action"
+    },
+    {
+      "korean": "걸어가다 보니",
+      "english": "while walking, I realized",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Teacher used as example of 다가 보니 pattern",
+      "examples": [
+        {
+          "korean": "집에 걸어가다 보니 친구를 만났어요.",
+          "english": "While walking home, I ran into a friend."
+        },
+        {
+          "korean": "공원을 걸어가다 보니 예쁜 카페를 발견했어요.",
+          "english": "While walking through the park, I discovered a pretty cafe."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common example of discovering something while walking"
+    },
+    {
+      "korean": "자꾸",
+      "english": "repeatedly, again and again",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher emphasized this time adverb with 다가 보니",
+      "examples": [
+        {
+          "korean": "자꾸 잊어버려요.",
+          "english": "I keep forgetting."
+        },
+        {
+          "korean": "자꾸 전화가 와요.",
+          "english": "The phone keeps ringing."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Frequently used with 다가 보니 pattern"
+    },
+    {
+      "korean": "자주",
+      "english": "often, frequently",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher used with 다가 보니 pattern",
+      "examples": [
+        {
+          "korean": "자주 만나요.",
+          "english": "We meet often."
+        },
+        {
+          "korean": "자주 운동해요.",
+          "english": "I exercise frequently."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Similar to 자꾸 but less repetitive feeling"
+    },
+    {
+      "korean": "읽다 보니",
+      "english": "while reading, I realized",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Example from textbook exercise",
+      "examples": [
+        {
+          "korean": "소설을 읽다 보니 울게 되었어요.",
+          "english": "While reading the novel, I ended up crying."
+        },
+        {
+          "korean": "신문을 읽다 보니 시간이 늦었어요.",
+          "english": "While reading the newspaper, I realized it got late."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common pattern with reading activities"
+    },
+    {
+      "korean": "얘기하다 보니",
+      "english": "while talking, I realized",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Example from textbook showing conversation context",
+      "examples": [
+        {
+          "korean": "친구와 얘기하다 보니 기분이 좋아졌어요.",
+          "english": "While talking with my friend, I felt better."
+        },
+        {
+          "korean": "선생님과 얘기하다 보니 답을 알게 되었어요.",
+          "english": "While talking with the teacher, I came to know the answer."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows discovery through conversation"
+    },
+    {
+      "korean": "만나다 보니",
+      "english": "while meeting/seeing, I realized",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Example about developing feelings through meeting",
+      "examples": [
+        {
+          "korean": "새 동료를 만나다 보니 친해졌어요.",
+          "english": "While meeting my new colleague, we became close."
+        },
+        {
+          "korean": "이웃을 만나다 보니 좋은 사람인 걸 알았어요.",
+          "english": "While meeting my neighbor, I realized they're a good person."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Often used for developing relationships"
+    },
+    {
+      "korean": "게으르다",
+      "english": "to be lazy",
+      "type": "vocabulary",
+      "category": "adjective",
+      "context_from_class": "Teacher used as example with 다 보니 pattern",
+      "examples": [
+        {
+          "korean": "주말에는 게을러져요.",
+          "english": "I become lazy on weekends."
+        },
+        {
+          "korean": "게으른 학생이에요.",
+          "english": "I'm a lazy student."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Descriptive adjective for personality trait"
+    },
+    {
+      "korean": "게으르다 보니",
+      "english": "being lazy, so...",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Teacher showed adjective use with 다 보니",
+      "examples": [
+        {
+          "korean": "게으르다 보니 숙제를 못했어요.",
+          "english": "Being lazy, I couldn't do my homework."
+        },
+        {
+          "korean": "게으르다 보니 늦게 일어났어요.",
+          "english": "Being lazy, I woke up late."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Shows how a state/trait leads to a result"
+    },
+    {
+      "korean": "겁이 많다",
+      "english": "to be scared easily, to be timid",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Student used this to describe herself",
+      "examples": [
+        {
+          "korean": "저는 겁이 많아서 혼자 못 가요.",
+          "english": "I'm timid so I can't go alone."
+        },
+        {
+          "korean": "겁이 많은 사람이에요.",
+          "english": "I'm a person who scares easily."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common way to describe being fearful or timid"
+    },
+    {
+      "korean": "는지",
+      "english": "whether, if (indirect question marker)",
+      "type": "grammar",
+      "category": "question_marker",
+      "context_from_class": "Teacher explained indirect question formation",
+      "examples": [
+        {
+          "korean": "언제 오는지 알아요?",
+          "english": "Do you know when they're coming?"
+        },
+        {
+          "korean": "어디 가는지 모르겠어요.",
+          "english": "I don't know where they're going."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with verbs for indirect questions"
+    },
+    {
+      "korean": "ㄴ지",
+      "english": "whether, if (indirect question for adjectives)",
+      "type": "grammar",
+      "category": "question_marker",
+      "context_from_class": "Teacher explained adjective form of indirect questions",
+      "examples": [
+        {
+          "korean": "음식이 맛있는지 궁금해요.",
+          "english": "I'm curious whether the food is delicious."
+        },
+        {
+          "korean": "시험이 어려운지 걱정돼요.",
+          "english": "I'm worried whether the exam will be difficult."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used with adjectives for indirect questions"
+    },
+    {
+      "korean": "무엇인지 알아요",
+      "english": "do you know what it is",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Teacher's example of indirect question",
+      "examples": [
+        {
+          "korean": "이게 무엇인지 알아요?",
+          "english": "Do you know what this is?"
+        },
+        {
+          "korean": "문제가 무엇인지 알겠어요.",
+          "english": "I know what the problem is."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common indirect question pattern"
+    },
+    {
+      "korean": "얼마인지 알아요",
+      "english": "do you know how much it is",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Teacher's example for price questions",
+      "examples": [
+        {
+          "korean": "버스표가 얼마인지 알아요?",
+          "english": "Do you know how much the bus ticket is?"
+        },
+        {
+          "korean": "집값이 얼마인지 궁금해요.",
+          "english": "I'm curious how much the house costs."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used for asking about prices indirectly"
+    },
+    {
+      "korean": "가는지 알아요",
+      "english": "do you know if (someone) is going",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Teacher's example with verb",
+      "examples": [
+        {
+          "korean": "친구가 파티에 가는지 알아요?",
+          "english": "Do you know if your friend is going to the party?"
+        },
+        {
+          "korean": "언제 가는지 말해주세요.",
+          "english": "Please tell me when you're going."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Indirect question with movement verb"
+    },
+    {
+      "korean": "먹었는지 알아요",
+      "english": "do you know if (someone) ate",
+      "type": "phrase",
+      "category": "question_pattern",
+      "context_from_class": "Teacher's past tense example",
+      "examples": [
+        {
+          "korean": "아이가 밥을 먹었는지 확인해주세요.",
+          "english": "Please check if the child ate."
+        },
+        {
+          "korean": "약을 먹었는지 기억이 안 나요.",
+          "english": "I don't remember if I took the medicine."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Past tense indirect question"
+    },
+    {
+      "korean": "의문이 풀렸다",
+      "english": "the question was resolved, mystery was solved",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "From reading passage about solving a mystery",
+      "examples": [
+        {
+          "korean": "드디어 의문이 풀렸어요.",
+          "english": "Finally the mystery was solved."
+        },
+        {
+          "korean": "설명을 듣고 의문이 풀렸어요.",
+          "english": "After hearing the explanation, my question was resolved."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used when understanding something that was confusing"
+    },
+    {
+      "korean": "지은이",
+      "english": "author, writer",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher explained this word from reading passage",
+      "examples": [
+        {
+          "korean": "이 책의 지은이가 누구예요?",
+          "english": "Who is the author of this book?"
+        },
+        {
+          "korean": "유명한 지은이의 작품이에요.",
+          "english": "It's a work by a famous author."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Formal word for author, from 짓다 (to write/compose)"
+    },
+    {
+      "korean": "작가",
+      "english": "writer, author",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "Teacher compared with 지은이",
+      "examples": [
+        {
+          "korean": "좋아하는 작가가 있어요?",
+          "english": "Do you have a favorite writer?"
+        },
+        {
+          "korean": "그 작가의 새 소설을 읽었어요.",
+          "english": "I read that writer's new novel."
+        }
+      ],
+      "confidence": "high",
+      "notes": "More commonly used than 지은이"
+    },
+    {
+      "korean": "매표소",
+      "english": "ticket office, box office",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "From reading passage about temple visit",
+      "examples": [
+        {
+          "korean": "매표소에서 표를 사세요.",
+          "english": "Buy tickets at the ticket office."
+        },
+        {
+          "korean": "매표소가 어디에 있어요?",
+          "english": "Where is the ticket office?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Place where tickets are sold"
+    },
+    {
+      "korean": "청평사",
+      "english": "Cheongpyeongsa (temple name)",
+      "type": "vocabulary",
+      "category": "proper_noun",
+      "context_from_class": "Temple mentioned in reading passage",
+      "examples": [
+        {
+          "korean": "청평사에 가본 적 있어요?",
+          "english": "Have you ever been to Cheongpyeongsa?"
+        },
+        {
+          "korean": "청평사는 유명한 절이에요.",
+          "english": "Cheongpyeongsa is a famous temple."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Specific temple name from the reading"
+    },
+    {
+      "korean": "춘천",
+      "english": "Chuncheon (city name)",
+      "type": "vocabulary",
+      "category": "proper_noun",
+      "context_from_class": "City mentioned in reading passage",
+      "examples": [
+        {
+          "korean": "춘천에 놀러 갔어요.",
+          "english": "I went to Chuncheon for fun."
+        },
+        {
+          "korean": "춘천은 닭갈비로 유명해요.",
+          "english": "Chuncheon is famous for dakgalbi."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "City in Korea, known for chicken ribs"
+    },
+    {
+      "korean": "평일",
+      "english": "weekday",
+      "type": "vocabulary",
+      "category": "noun",
+      "context_from_class": "From reading passage describing when the visit happened",
+      "examples": [
+        {
+          "korean": "평일에는 사람이 적어요.",
+          "english": "There are fewer people on weekdays."
+        },
+        {
+          "korean": "평일 오후에 만날까요?",
+          "english": "Shall we meet on a weekday afternoon?"
+        }
+      ],
+      "confidence": "high",
+      "notes": "Monday through Friday, working days"
+    },
+    {
+      "korean": "설상가상",
+      "english": "to make matters worse, adding insult to injury",
+      "type": "phrase",
+      "category": "idiom",
+      "context_from_class": "Teacher mentioned this idiom in relation to 는데다가",
+      "examples": [
+        {
+          "korean": "늦었는데 설상가상으로 비까지 와요.",
+          "english": "I'm late and to make matters worse, it's raining too."
+        },
+        {
+          "korean": "설상가상으로 지갑도 잃어버렸어요.",
+          "english": "To make matters worse, I lost my wallet too."
+        }
+      ],
+      "confidence": "medium",
+      "notes": "Four-character idiom meaning bad situation getting worse"
+    },
+    {
+      "korean": "놓고 왔어요",
+      "english": "left (something) behind",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Teacher's example of forgetting something at home",
+      "examples": [
+        {
+          "korean": "열쇠를 집에 놓고 왔어요.",
+          "english": "I left my keys at home."
+        },
+        {
+          "korean": "책을 도서관에 놓고 왔어요.",
+          "english": "I left my book at the library."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Common expression for forgetting to bring something"
+    },
+    {
+      "korean": "습관이 되었습니다",
+      "english": "it became a habit",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Example sentence from exercise",
+      "examples": [
+        {
+          "korean": "매일 운동하는 게 습관이 되었어요.",
+          "english": "Exercising every day became a habit."
+        },
+        {
+          "korean": "일찍 자는 게 습관이 되었어요.",
+          "english": "Going to bed early became a habit."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Used to describe forming good or bad habits"
+    },
+    {
+      "korean": "정이 들어서",
+      "english": "because I grew fond of, developed affection",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Example about marriage reason from textbook",
+      "examples": [
+        {
+          "korean": "이 동네에 정이 들어서 이사 안 갈 거예요.",
+          "english": "I've grown fond of this neighborhood so I won't move."
+        },
+        {
+          "korean": "강아지에게 정이 들어서 키우기로 했어요.",
+          "english": "I grew fond of the puppy so I decided to raise it."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Describes developing emotional attachment over time"
+    },
+    {
+      "korean": "첫눈에 반해서",
+      "english": "fell in love at first sight",
+      "type": "phrase",
+      "category": "daily_expression",
+      "context_from_class": "Question from textbook about marriage",
+      "examples": [
+        {
+          "korean": "첫눈에 반해서 결혼했어요.",
+          "english": "We got married after falling in love at first sight."
+        },
+        {
+          "korean": "그 드레스를 첫눈에 반해서 샀어요.",
+          "english": "I fell in love with that dress at first sight and bought it."
+        }
+      ],
+      "confidence": "high",
+      "notes": "Can be used for people or things you immediately love"
+    },
+    {
+      "korean": "아마도",
+      "english": "probably, perhaps",
+      "type": "vocabulary",
+      "category": "adverb",
+      "context_from_class": "Teacher corrected student's use of 혹시",
+      "examples": [
+        {
+          "korean": "아마도 내일 비가 올 거예요.",
+          "english": "It will probably rain tomorrow."
+        },
+        {
+          "korean": "아마도 늦을 것 같아요.",
+          "english": "I'll probably be late."
+        }
+      ],
+      "correction_details": {
+        "incorrect": "혹시 빵하고 요구르트를 먹을 거예요",
+        "correct": "아마도 빵하고 요구르트를 먹을 거예요",
+        "explanation": "혹시 means 'by any chance' for questions, 아마도 means 'probably' for statements"
+      },
+      "confidence": "high",
+      "notes": "Used for probability, not 혹시 which is for questions"
+    },
+    {
+      "korean": "캔슬할 거예요",
+      "english": "will cancel",
+      "type": "correction",
+      "category": "grammar",
+      "context_from_class": "Teacher corrected student's future tense form",
+      "examples": [
+        {
+          "korean": "회의를 캔슬할 거예요.",
+          "english": "I will cancel the meeting."
+        },
+        {
+          "korean": "예약을 캔슬할 거예요.",
+          "english": "I will cancel the reservation."
+        }
+      ],
+      "correction_details": {
+        "incorrect": "캔슬 거예요",
+        "correct": "캔슬할 거예요",
+        "explanation": "Future tense needs ㄹ/을 before 거예요"
+      },
+      "confidence": "high",
+      "notes": "Future tense requires proper conjugation with 할"
+    }
+  ],
+  "statistics": {
+    "vocabulary_count": 18,
+    "phrase_count": 15,
+    "grammar_count": 12,
+    "correction_count": 2
+  }
+}
